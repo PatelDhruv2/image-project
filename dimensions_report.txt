@@ -1,0 +1,9 @@
+Detection 0
+  confidence: 0.8983
+  class_id: 0
+  bbox size: 203.00 x 229.00 px
+  mask bounds: 240 x 272 px
+  mask area: 36664 px
+  pothole size from mask: 262.00 x 186.00 px
+  pothole size from mask: 52.40 x 37.20 cm
+  scale used: 5.86 cm/pixel

@@ -1,0 +1,1538 @@
+[
+    {
+        "image_id": "00000",
+        "image_file": "images/00000.png",
+        "mask_file": "masks/00000_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": 0.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00001",
+        "image_file": "images/00001.png",
+        "mask_file": "masks/00001_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": 0.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00002",
+        "image_file": "images/00002.png",
+        "mask_file": "masks/00002_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": 0.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00003",
+        "image_file": "images/00003.png",
+        "mask_file": "masks/00003_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": 0.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00004",
+        "image_file": "images/00004.png",
+        "mask_file": "masks/00004_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": 0.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00005",
+        "image_file": "images/00005.png",
+        "mask_file": "masks/00005_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": 0.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00006",
+        "image_file": "images/00006.png",
+        "mask_file": "masks/00006_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": 0.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00007",
+        "image_file": "images/00007.png",
+        "mask_file": "masks/00007_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": 0.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00008",
+        "image_file": "images/00008.png",
+        "mask_file": "masks/00008_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": 0.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00009",
+        "image_file": "images/00009.png",
+        "mask_file": "masks/00009_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": 0.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00010",
+        "image_file": "images/00010.png",
+        "mask_file": "masks/00010_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": 0.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00011",
+        "image_file": "images/00011.png",
+        "mask_file": "masks/00011_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": -5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00012",
+        "image_file": "images/00012.png",
+        "mask_file": "masks/00012_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": 5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00013",
+        "image_file": "images/00013.png",
+        "mask_file": "masks/00013_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": 0.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00014",
+        "image_file": "images/00014.png",
+        "mask_file": "masks/00014_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": 5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00015",
+        "image_file": "images/00015.png",
+        "mask_file": "masks/00015_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": -5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00016",
+        "image_file": "images/00016.png",
+        "mask_file": "masks/00016_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": 0.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00017",
+        "image_file": "images/00017.png",
+        "mask_file": "masks/00017_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": 0.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00018",
+        "image_file": "images/00018.png",
+        "mask_file": "masks/00018_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": -5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00019",
+        "image_file": "images/00019.png",
+        "mask_file": "masks/00019_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": 5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00020",
+        "image_file": "images/00020.png",
+        "mask_file": "masks/00020_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": 0.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00021",
+        "image_file": "images/00021.png",
+        "mask_file": "masks/00021_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": 5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00022",
+        "image_file": "images/00022.png",
+        "mask_file": "masks/00022_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": -5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00023",
+        "image_file": "images/00023.png",
+        "mask_file": "masks/00023_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": 0.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00024",
+        "image_file": "images/00024.png",
+        "mask_file": "masks/00024_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": 0.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00025",
+        "image_file": "images/00025.png",
+        "mask_file": "masks/00025_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": 0.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00026",
+        "image_file": "images/00026.png",
+        "mask_file": "masks/00026_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": -5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00027",
+        "image_file": "images/00027.png",
+        "mask_file": "masks/00027_mask.png",
+        "has_pothole": true,
+        "state": {
+            "x": -5.0,
+            "y": 5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00028",
+        "image_file": "images/00028.png",
+        "mask_file": "masks/00028_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": 0.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00029",
+        "image_file": "images/00029.png",
+        "mask_file": "masks/00029_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": 5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00030",
+        "image_file": "images/00030.png",
+        "mask_file": "masks/00030_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": -5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00031",
+        "image_file": "images/00031.png",
+        "mask_file": "masks/00031_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": -10.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00032",
+        "image_file": "images/00032.png",
+        "mask_file": "masks/00032_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": -5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00033",
+        "image_file": "images/00033.png",
+        "mask_file": "masks/00033_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": -5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00034",
+        "image_file": "images/00034.png",
+        "mask_file": "masks/00034_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": 5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00035",
+        "image_file": "images/00035.png",
+        "mask_file": "masks/00035_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": 5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00036",
+        "image_file": "images/00036.png",
+        "mask_file": "masks/00036_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": -10.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00037",
+        "image_file": "images/00037.png",
+        "mask_file": "masks/00037_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": -5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00038",
+        "image_file": "images/00038.png",
+        "mask_file": "masks/00038_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": 5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00039",
+        "image_file": "images/00039.png",
+        "mask_file": "masks/00039_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": 0.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00040",
+        "image_file": "images/00040.png",
+        "mask_file": "masks/00040_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": 5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00041",
+        "image_file": "images/00041.png",
+        "mask_file": "masks/00041_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": -5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00042",
+        "image_file": "images/00042.png",
+        "mask_file": "masks/00042_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": -10.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00043",
+        "image_file": "images/00043.png",
+        "mask_file": "masks/00043_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": -5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00044",
+        "image_file": "images/00044.png",
+        "mask_file": "masks/00044_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": -5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00045",
+        "image_file": "images/00045.png",
+        "mask_file": "masks/00045_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": 5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00046",
+        "image_file": "images/00046.png",
+        "mask_file": "masks/00046_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": 5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00047",
+        "image_file": "images/00047.png",
+        "mask_file": "masks/00047_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": -10.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00048",
+        "image_file": "images/00048.png",
+        "mask_file": "masks/00048_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": 0.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00049",
+        "image_file": "images/00049.png",
+        "mask_file": "masks/00049_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": 0.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00050",
+        "image_file": "images/00050.png",
+        "mask_file": "masks/00050_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": -5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00051",
+        "image_file": "images/00051.png",
+        "mask_file": "masks/00051_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": 5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00052",
+        "image_file": "images/00052.png",
+        "mask_file": "masks/00052_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": 0.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00053",
+        "image_file": "images/00053.png",
+        "mask_file": "masks/00053_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": 5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00054",
+        "image_file": "images/00054.png",
+        "mask_file": "masks/00054_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": -5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00055",
+        "image_file": "images/00055.png",
+        "mask_file": "masks/00055_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": -10.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00056",
+        "image_file": "images/00056.png",
+        "mask_file": "masks/00056_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": -5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00057",
+        "image_file": "images/00057.png",
+        "mask_file": "masks/00057_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": -5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00058",
+        "image_file": "images/00058.png",
+        "mask_file": "masks/00058_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": 5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00059",
+        "image_file": "images/00059.png",
+        "mask_file": "masks/00059_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": 5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00060",
+        "image_file": "images/00060.png",
+        "mask_file": "masks/00060_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": -10.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00061",
+        "image_file": "images/00061.png",
+        "mask_file": "masks/00061_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": -10.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00062",
+        "image_file": "images/00062.png",
+        "mask_file": "masks/00062_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 0.0,
+            "y": -10.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00063",
+        "image_file": "images/00063.png",
+        "mask_file": "masks/00063_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": -10.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00064",
+        "image_file": "images/00064.png",
+        "mask_file": "masks/00064_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": -5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00065",
+        "image_file": "images/00065.png",
+        "mask_file": "masks/00065_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": -5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00066",
+        "image_file": "images/00066.png",
+        "mask_file": "masks/00066_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": 5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00067",
+        "image_file": "images/00067.png",
+        "mask_file": "masks/00067_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": 5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00068",
+        "image_file": "images/00068.png",
+        "mask_file": "masks/00068_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": -10.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00069",
+        "image_file": "images/00069.png",
+        "mask_file": "masks/00069_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": -10.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00070",
+        "image_file": "images/00070.png",
+        "mask_file": "masks/00070_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 5.0,
+            "y": -10.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00071",
+        "image_file": "images/00071.png",
+        "mask_file": "masks/00071_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": -5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00072",
+        "image_file": "images/00072.png",
+        "mask_file": "masks/00072_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": 5.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00073",
+        "image_file": "images/00073.png",
+        "mask_file": "masks/00073_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": 0.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00074",
+        "image_file": "images/00074.png",
+        "mask_file": "masks/00074_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": 5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00075",
+        "image_file": "images/00075.png",
+        "mask_file": "masks/00075_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": -5.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00076",
+        "image_file": "images/00076.png",
+        "mask_file": "masks/00076_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": -10.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00077",
+        "image_file": "images/00077.png",
+        "mask_file": "masks/00077_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": -5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00078",
+        "image_file": "images/00078.png",
+        "mask_file": "masks/00078_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": -5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00079",
+        "image_file": "images/00079.png",
+        "mask_file": "masks/00079_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": 5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00080",
+        "image_file": "images/00080.png",
+        "mask_file": "masks/00080_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": 5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00081",
+        "image_file": "images/00081.png",
+        "mask_file": "masks/00081_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": -10.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00082",
+        "image_file": "images/00082.png",
+        "mask_file": "masks/00082_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": -10.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00083",
+        "image_file": "images/00083.png",
+        "mask_file": "masks/00083_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -5.0,
+            "y": -10.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00084",
+        "image_file": "images/00084.png",
+        "mask_file": "masks/00084_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": -10.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00085",
+        "image_file": "images/00085.png",
+        "mask_file": "masks/00085_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": 10.0,
+            "y": -10.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00086",
+        "image_file": "images/00086.png",
+        "mask_file": "masks/00086_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": -10.0,
+            "yaw_deg": 270
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00087",
+        "image_file": "images/00087.png",
+        "mask_file": "masks/00087_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": -5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00088",
+        "image_file": "images/00088.png",
+        "mask_file": "masks/00088_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": -5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00089",
+        "image_file": "images/00089.png",
+        "mask_file": "masks/00089_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": 5.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00090",
+        "image_file": "images/00090.png",
+        "mask_file": "masks/00090_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": 5.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00091",
+        "image_file": "images/00091.png",
+        "mask_file": "masks/00091_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": -10.0,
+            "yaw_deg": 90
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00092",
+        "image_file": "images/00092.png",
+        "mask_file": "masks/00092_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": -10.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00093",
+        "image_file": "images/00093.png",
+        "mask_file": "masks/00093_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -10.0,
+            "y": -10.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00094",
+        "image_file": "images/00094.png",
+        "mask_file": "masks/00094_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": -10.0,
+            "yaw_deg": 180
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    },
+    {
+        "image_id": "00095",
+        "image_file": "images/00095.png",
+        "mask_file": "masks/00095_mask.png",
+        "has_pothole": false,
+        "state": {
+            "x": -15.0,
+            "y": -10.0,
+            "yaw_deg": 0
+        },
+        "image_width": 512,
+        "image_height": 512,
+        "camera_height_m": 15,
+        "pixel_scale_m_per_px": 0.02,
+        "class_name": "pothole"
+    }
+]

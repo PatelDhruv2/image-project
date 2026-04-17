@@ -1,0 +1,301 @@
+# image_path  split  has_pothole  n_potholes  yolo_boxes...
+yolo_dataset\images\train\00000.png  train  0  0
+yolo_dataset\images\train\00001.png  train  1  3  0 0.384766 0.736328 0.175454 0.063891 | 0 0.181641 0.632812 0.078790 0.110151 | 0 0.718750 0.519531 0.121429 0.120884
+yolo_dataset\images\val\00002.png  val  0  0
+yolo_dataset\images\train\00003.png  train  0  0
+yolo_dataset\images\train\00004.png  train  1  2  0 0.750000 0.386719 0.137581 0.098550 | 0 0.603516 0.556641 0.058150 0.055159
+yolo_dataset\images\train\00005.png  train  0  0
+yolo_dataset\images\train\00006.png  train  0  0
+yolo_dataset\images\train\00007.png  train  0  0
+yolo_dataset\images\val\00008.png  val  0  0
+yolo_dataset\images\train\00009.png  train  1  3  0 0.570312 0.230469 0.087106 0.052225 | 0 0.626953 0.617188 0.074797 0.152061 | 0 0.755859 0.802734 0.064274 0.072688
+yolo_dataset\images\train\00010.png  train  0  0
+yolo_dataset\images\train\00011.png  train  0  0
+yolo_dataset\images\train\00012.png  train  1  2  0 0.441406 0.753906 0.132178 0.075038 | 0 0.234375 0.775391 0.116887 0.089811
+yolo_dataset\images\train\00013.png  train  0  0
+yolo_dataset\images\train\00014.png  train  0  0
+yolo_dataset\images\train\00015.png  train  0  0
+yolo_dataset\images\val\00016.png  val  0  0
+yolo_dataset\images\val\00017.png  val  1  2  0 0.416016 0.806641 0.067460 0.040361 | 0 0.513672 0.402344 0.095889 0.127383
+yolo_dataset\images\train\00018.png  train  1  1  0 0.810547 0.546875 0.059149 0.040542
+yolo_dataset\images\train\00019.png  train  0  0
+yolo_dataset\images\train\00020.png  train  0  0
+yolo_dataset\images\val\00021.png  val  1  1  0 0.205078 0.441406 0.152924 0.130108
+yolo_dataset\images\train\00022.png  train  0  0
+yolo_dataset\images\train\00023.png  train  1  3  0 0.576172 0.386719 0.074257 0.071563 | 0 0.794922 0.466797 0.108399 0.094877 | 0 0.181641 0.191406 0.052957 0.054297
+yolo_dataset\images\train\00024.png  train  0  0
+yolo_dataset\images\train\00025.png  train  0  0
+yolo_dataset\images\train\00026.png  train  0  0
+yolo_dataset\images\val\00027.png  val  1  3  0 0.361328 0.667969 0.152221 0.097848 | 0 0.441406 0.335938 0.089838 0.070319 | 0 0.421875 0.189453 0.101488 0.097733
+yolo_dataset\images\val\00028.png  val  0  0
+yolo_dataset\images\train\00029.png  train  0  0
+yolo_dataset\images\val\00030.png  val  1  2  0 0.361328 0.455078 0.125658 0.172282 | 0 0.300781 0.318359 0.085782 0.099341
+yolo_dataset\images\train\00031.png  train  1  1  0 0.667969 0.773438 0.072886 0.143623
+yolo_dataset\images\train\00032.png  train  0  0
+yolo_dataset\images\train\00033.png  train  0  0
+yolo_dataset\images\train\00034.png  train  1  1  0 0.457031 0.576172 0.150108 0.080938
+yolo_dataset\images\train\00035.png  train  0  0
+yolo_dataset\images\train\00036.png  train  0  0
+yolo_dataset\images\train\00037.png  train  0  0
+yolo_dataset\images\train\00038.png  train  0  0
+yolo_dataset\images\train\00039.png  train  1  3  0 0.384766 0.599609 0.123321 0.118953 | 0 0.785156 0.312500 0.079070 0.191018 | 0 0.808594 0.703125 0.144211 0.121475
+yolo_dataset\images\train\00040.png  train  0  0
+yolo_dataset\images\train\00041.png  train  0  0
+yolo_dataset\images\train\00042.png  train  0  0
+yolo_dataset\images\val\00043.png  val  0  0
+yolo_dataset\images\train\00044.png  train  0  0
+yolo_dataset\images\train\00045.png  train  0  0
+yolo_dataset\images\train\00046.png  train  0  0
+yolo_dataset\images\train\00047.png  train  1  2  0 0.578125 0.277344 0.047572 0.039390 | 0 0.464844 0.822266 0.117520 0.146204
+yolo_dataset\images\train\00048.png  train  1  3  0 0.705078 0.390625 0.150742 0.150064 | 0 0.242188 0.470703 0.167845 0.156383 | 0 0.554688 0.607422 0.120800 0.121888
+yolo_dataset\images\train\00049.png  train  0  0
+yolo_dataset\images\val\00050.png  val  0  0
+yolo_dataset\images\train\00051.png  train  0  0
+yolo_dataset\images\train\00052.png  train  0  0
+yolo_dataset\images\train\00053.png  train  1  3  0 0.615234 0.833984 0.052117 0.063828 | 0 0.681641 0.373047 0.059850 0.083984 | 0 0.689453 0.511719 0.050206 0.035972
+yolo_dataset\images\train\00054.png  train  0  0
+yolo_dataset\images\train\00055.png  train  1  2  0 0.789062 0.767578 0.117360 0.148301 | 0 0.308594 0.394531 0.109619 0.116960
+yolo_dataset\images\val\00056.png  val  1  3  0 0.800781 0.664062 0.135931 0.134982 | 0 0.511719 0.835938 0.054547 0.031494 | 0 0.517578 0.742188 0.156124 0.176413
+yolo_dataset\images\train\00057.png  train  1  3  0 0.634766 0.486328 0.039393 0.070128 | 0 0.531250 0.318359 0.072686 0.121519 | 0 0.537109 0.789062 0.053631 0.083916
+yolo_dataset\images\train\00058.png  train  1  1  0 0.214844 0.572266 0.119490 0.091966
+yolo_dataset\images\train\00059.png  train  0  0
+yolo_dataset\images\val\00060.png  val  0  0
+yolo_dataset\images\train\00061.png  train  0  0
+yolo_dataset\images\train\00062.png  train  0  0
+yolo_dataset\images\train\00063.png  train  0  0
+yolo_dataset\images\train\00064.png  train  0  0
+yolo_dataset\images\train\00065.png  train  1  1  0 0.714844 0.244141 0.117111 0.091291
+yolo_dataset\images\train\00066.png  train  0  0
+yolo_dataset\images\train\00067.png  train  0  0
+yolo_dataset\images\train\00068.png  train  0  0
+yolo_dataset\images\train\00069.png  train  1  2  0 0.289062 0.839844 0.147116 0.140059 | 0 0.847656 0.267578 0.060855 0.047086
+yolo_dataset\images\train\00070.png  train  1  1  0 0.716797 0.761719 0.178845 0.176811
+yolo_dataset\images\train\00071.png  train  1  3  0 0.769531 0.214844 0.182943 0.133708 | 0 0.294922 0.388672 0.046383 0.107971 | 0 0.310547 0.654297 0.050781 0.050781
+yolo_dataset\images\train\00072.png  train  1  2  0 0.720703 0.531250 0.126502 0.158251 | 0 0.685547 0.443359 0.110754 0.101270
+yolo_dataset\images\train\00073.png  train  1  2  0 0.382812 0.789062 0.132508 0.141236 | 0 0.257812 0.558594 0.066406 0.054688
+yolo_dataset\images\train\00074.png  train  0  0
+yolo_dataset\images\train\00075.png  train  0  0
+yolo_dataset\images\train\00076.png  train  0  0
+yolo_dataset\images\train\00077.png  train  1  3  0 0.466797 0.636719 0.046863 0.035173 | 0 0.662109 0.744141 0.098580 0.138720 | 0 0.804688 0.289062 0.092749 0.094901
+yolo_dataset\images\train\00078.png  train  0  0
+yolo_dataset\images\train\00079.png  train  1  2  0 0.562500 0.507812 0.063734 0.155751 | 0 0.525391 0.166016 0.089854 0.097647
+yolo_dataset\images\train\00080.png  train  1  2  0 0.677734 0.806641 0.148790 0.136782 | 0 0.826172 0.667969 0.101548 0.031295
+yolo_dataset\images\val\00081.png  val  0  0
+yolo_dataset\images\train\00082.png  train  1  2  0 0.255859 0.558594 0.110754 0.101270 | 0 0.619141 0.251953 0.109908 0.129928
+yolo_dataset\images\train\00083.png  train  0  0
+yolo_dataset\images\train\00084.png  train  0  0
+yolo_dataset\images\train\00085.png  train  1  2  0 0.349609 0.513672 0.105926 0.162833 | 0 0.773438 0.859375 0.062020 0.071167
+yolo_dataset\images\train\00086.png  train  0  0
+yolo_dataset\images\val\00087.png  val  1  1  0 0.421875 0.839844 0.054981 0.085394
+yolo_dataset\images\train\00088.png  train  0  0
+yolo_dataset\images\train\00089.png  train  0  0
+yolo_dataset\images\train\00090.png  train  1  1  0 0.175781 0.345703 0.063844 0.098657
+yolo_dataset\images\train\00091.png  train  1  1  0 0.720703 0.158203 0.070090 0.088219
+yolo_dataset\images\train\00092.png  train  1  1  0 0.781250 0.703125 0.096781 0.052431
+yolo_dataset\images\val\00093.png  val  0  0
+yolo_dataset\images\val\00094.png  val  1  1  0 0.611328 0.539062 0.117188 0.117188
+yolo_dataset\images\train\00095.png  train  0  0
+yolo_dataset\images\train\00096.png  train  0  0
+yolo_dataset\images\val\00097.png  val  0  0
+yolo_dataset\images\val\00098.png  val  0  0
+yolo_dataset\images\train\00099.png  train  1  1  0 0.638672 0.164062 0.042034 0.040821
+yolo_dataset\images\train\00100.png  train  1  2  0 0.773438 0.843750 0.079981 0.096142 | 0 0.343750 0.429688 0.167513 0.090691
+yolo_dataset\images\train\00101.png  train  1  3  0 0.472656 0.531250 0.169761 0.116426 | 0 0.607422 0.246094 0.075879 0.092411 | 0 0.285156 0.435547 0.157636 0.132380
+yolo_dataset\images\train\00102.png  train  0  0
+yolo_dataset\images\train\00103.png  train  1  2  0 0.712891 0.248047 0.147535 0.147535 | 0 0.412109 0.632812 0.144829 0.155974
+yolo_dataset\images\train\00104.png  train  1  3  0 0.306641 0.212891 0.097344 0.039834 | 0 0.251953 0.802734 0.192303 0.085265 | 0 0.574219 0.501953 0.089844 0.089844
+yolo_dataset\images\train\00105.png  train  1  1  0 0.427734 0.484375 0.056123 0.046149
+yolo_dataset\images\train\00106.png  train  0  0
+yolo_dataset\images\train\00107.png  train  1  1  0 0.189453 0.533203 0.058217 0.063335
+yolo_dataset\images\val\00108.png  val  0  0
+yolo_dataset\images\train\00109.png  train  0  0
+yolo_dataset\images\train\00110.png  train  0  0
+yolo_dataset\images\val\00111.png  val  1  3  0 0.626953 0.509766 0.160839 0.167315 | 0 0.769531 0.625000 0.157929 0.178214 | 0 0.773438 0.164062 0.057320 0.161752
+yolo_dataset\images\val\00112.png  val  1  1  0 0.457031 0.535156 0.058239 0.169493
+yolo_dataset\images\train\00113.png  train  0  0
+yolo_dataset\images\train\00114.png  train  1  1  0 0.824219 0.476562 0.088297 0.099518
+yolo_dataset\images\train\00115.png  train  1  3  0 0.603516 0.250000 0.097210 0.095179 | 0 0.541016 0.240234 0.095308 0.073981 | 0 0.367188 0.789062 0.129737 0.109509
+yolo_dataset\images\val\00116.png  val  1  2  0 0.222656 0.279297 0.059773 0.077621 | 0 0.761719 0.681641 0.117740 0.042162
+yolo_dataset\images\train\00117.png  train  1  3  0 0.382812 0.744141 0.153360 0.087316 | 0 0.414062 0.582031 0.098240 0.097696 | 0 0.763672 0.539062 0.119890 0.084776
+yolo_dataset\images\train\00118.png  train  1  1  0 0.271484 0.425781 0.085806 0.066576
+yolo_dataset\images\val\00119.png  val  0  0
+yolo_dataset\images\train\00120.png  train  0  0
+yolo_dataset\images\val\00121.png  val  1  2  0 0.833984 0.449219 0.058594 0.058594 | 0 0.720703 0.320312 0.046875 0.046875
+yolo_dataset\images\train\00122.png  train  1  1  0 0.792969 0.212891 0.046139 0.037769
+yolo_dataset\images\train\00123.png  train  0  0
+yolo_dataset\images\train\00124.png  train  1  1  0 0.279297 0.652344 0.050801 0.054669
+yolo_dataset\images\train\00125.png  train  0  0
+yolo_dataset\images\train\00126.png  train  1  3  0 0.853516 0.259766 0.054688 0.054688 | 0 0.638672 0.281250 0.133610 0.122974 | 0 0.507812 0.414062 0.083608 0.098735
+yolo_dataset\images\val\00127.png  val  0  0
+yolo_dataset\images\train\00128.png  train  0  0
+yolo_dataset\images\train\00129.png  train  0  0
+yolo_dataset\images\val\00130.png  val  1  1  0 0.314453 0.416016 0.139972 0.053132
+yolo_dataset\images\train\00131.png  train  0  0
+yolo_dataset\images\train\00132.png  train  1  1  0 0.253906 0.474609 0.071562 0.089877
+yolo_dataset\images\val\00133.png  val  1  3  0 0.441406 0.187500 0.047114 0.049492 | 0 0.683594 0.248047 0.111593 0.101327 | 0 0.373047 0.814453 0.083140 0.098589
+yolo_dataset\images\train\00134.png  train  1  2  0 0.304688 0.759766 0.097845 0.110595 | 0 0.302734 0.199219 0.136143 0.145389
+yolo_dataset\images\train\00135.png  train  1  3  0 0.398438 0.478516 0.068203 0.089686 | 0 0.250000 0.236328 0.118364 0.105602 | 0 0.277344 0.542969 0.063205 0.056091
+yolo_dataset\images\train\00136.png  train  1  1  0 0.197266 0.427734 0.073592 0.114691
+yolo_dataset\images\train\00137.png  train  0  0
+yolo_dataset\images\train\00138.png  train  1  2  0 0.167969 0.605469 0.059812 0.069279 | 0 0.773438 0.673828 0.100892 0.167782
+yolo_dataset\images\train\00139.png  train  0  0
+yolo_dataset\images\train\00140.png  train  1  3  0 0.619141 0.460938 0.111859 0.097263 | 0 0.509766 0.517578 0.167112 0.137765 | 0 0.185547 0.546875 0.069799 0.125104
+yolo_dataset\images\val\00141.png  val  0  0
+yolo_dataset\images\train\00142.png  train  1  3  0 0.347656 0.800781 0.058128 0.135066 | 0 0.484375 0.250000 0.056671 0.100469 | 0 0.275391 0.363281 0.078125 0.078125
+yolo_dataset\images\train\00143.png  train  0  0
+yolo_dataset\images\train\00144.png  train  0  0
+yolo_dataset\images\val\00145.png  val  0  0
+yolo_dataset\images\train\00146.png  train  1  3  0 0.263672 0.312500 0.179792 0.091321 | 0 0.441406 0.773438 0.082894 0.089048 | 0 0.701172 0.664062 0.084121 0.127253
+yolo_dataset\images\train\00147.png  train  1  2  0 0.474609 0.638672 0.058940 0.093533 | 0 0.722656 0.646484 0.099433 0.131487
+yolo_dataset\images\train\00148.png  train  1  3  0 0.244141 0.476562 0.130742 0.107813 | 0 0.648438 0.261719 0.081130 0.075809 | 0 0.705078 0.830078 0.167749 0.036192
+yolo_dataset\images\val\00149.png  val  0  0
+yolo_dataset\images\train\00150.png  train  1  1  0 0.720703 0.552734 0.047195 0.163971
+yolo_dataset\images\train\00151.png  train  0  0
+yolo_dataset\images\train\00152.png  train  1  3  0 0.437500 0.796875 0.105932 0.113253 | 0 0.482422 0.798828 0.089587 0.086205 | 0 0.576172 0.255859 0.119036 0.166664
+yolo_dataset\images\train\00153.png  train  1  2  0 0.455078 0.296875 0.194886 0.063819 | 0 0.208984 0.611328 0.049071 0.048663
+yolo_dataset\images\train\00154.png  train  1  2  0 0.769531 0.662109 0.045474 0.033256 | 0 0.250000 0.732422 0.117298 0.152259
+yolo_dataset\images\train\00155.png  train  1  1  0 0.792969 0.617188 0.085927 0.082042
+yolo_dataset\images\train\00156.png  train  1  3  0 0.625000 0.636719 0.168473 0.145630 | 0 0.255859 0.255859 0.050778 0.039067 | 0 0.210938 0.220703 0.165426 0.136583
+yolo_dataset\images\train\00157.png  train  0  0
+yolo_dataset\images\train\00158.png  train  0  0
+yolo_dataset\images\train\00159.png  train  0  0
+yolo_dataset\images\train\00160.png  train  1  1  0 0.347656 0.621094 0.159706 0.154306
+yolo_dataset\images\train\00161.png  train  0  0
+yolo_dataset\images\train\00162.png  train  0  0
+yolo_dataset\images\train\00163.png  train  0  0
+yolo_dataset\images\train\00164.png  train  1  1  0 0.564453 0.250000 0.128866 0.113327
+yolo_dataset\images\train\00165.png  train  0  0
+yolo_dataset\images\train\00166.png  train  1  3  0 0.699219 0.191406 0.099329 0.180636 | 0 0.654297 0.210938 0.048175 0.064530 | 0 0.785156 0.550781 0.079477 0.100508
+yolo_dataset\images\train\00167.png  train  0  0
+yolo_dataset\images\train\00168.png  train  1  3  0 0.744141 0.441406 0.051315 0.052470 | 0 0.396484 0.792969 0.127266 0.151718 | 0 0.289062 0.406250 0.050841 0.054632
+yolo_dataset\images\val\00169.png  val  0  0
+yolo_dataset\images\train\00170.png  train  1  3  0 0.314453 0.177734 0.046875 0.046875 | 0 0.597656 0.378906 0.155870 0.094381 | 0 0.824219 0.771484 0.072345 0.076247
+yolo_dataset\images\val\00171.png  val  0  0
+yolo_dataset\images\val\00172.png  val  0  0
+yolo_dataset\images\train\00173.png  train  1  3  0 0.255859 0.666016 0.125846 0.160208 | 0 0.523438 0.789062 0.125750 0.114665 | 0 0.431641 0.208984 0.154173 0.116552
+yolo_dataset\images\train\00174.png  train  1  1  0 0.259766 0.195312 0.110831 0.145740
+yolo_dataset\images\train\00175.png  train  0  0
+yolo_dataset\images\train\00176.png  train  1  2  0 0.769531 0.240234 0.095084 0.050100 | 0 0.525391 0.343750 0.058236 0.044665
+yolo_dataset\images\train\00177.png  train  1  3  0 0.203125 0.462891 0.137340 0.143251 | 0 0.417969 0.822266 0.099948 0.135391 | 0 0.628906 0.195312 0.137599 0.156014
+yolo_dataset\images\train\00178.png  train  0  0
+yolo_dataset\images\train\00179.png  train  0  0
+yolo_dataset\images\train\00180.png  train  1  1  0 0.705078 0.750000 0.190766 0.068225
+yolo_dataset\images\train\00181.png  train  1  2  0 0.250000 0.708984 0.103948 0.134914 | 0 0.500000 0.550781 0.098694 0.104498
+yolo_dataset\images\train\00182.png  train  0  0
+yolo_dataset\images\val\00183.png  val  0  0
+yolo_dataset\images\train\00184.png  train  0  0
+yolo_dataset\images\train\00185.png  train  1  2  0 0.556641 0.746094 0.077508 0.072692 | 0 0.462891 0.175781 0.070882 0.074908
+yolo_dataset\images\val\00186.png  val  1  3  0 0.224609 0.583984 0.062676 0.109274 | 0 0.287109 0.603516 0.077804 0.136231 | 0 0.621094 0.796875 0.058592 0.050784
+yolo_dataset\images\train\00187.png  train  0  0
+yolo_dataset\images\train\00188.png  train  0  0
+yolo_dataset\images\train\00189.png  train  0  0
+yolo_dataset\images\train\00190.png  train  0  0
+yolo_dataset\images\train\00191.png  train  1  3  0 0.718750 0.167969 0.045147 0.037350 | 0 0.789062 0.542969 0.044408 0.100941 | 0 0.800781 0.273438 0.085560 0.084618
+yolo_dataset\images\train\00192.png  train  0  0
+yolo_dataset\images\train\00193.png  train  1  1  0 0.566406 0.859375 0.192442 0.048466
+yolo_dataset\images\train\00194.png  train  0  0
+yolo_dataset\images\train\00195.png  train  0  0
+yolo_dataset\images\val\00196.png  val  0  0
+yolo_dataset\images\train\00197.png  train  0  0
+yolo_dataset\images\val\00198.png  val  0  0
+yolo_dataset\images\val\00199.png  val  0  0
+yolo_dataset\images\train\00200.png  train  1  2  0 0.742188 0.285156 0.107668 0.187999 | 0 0.322266 0.810547 0.065476 0.051975
+yolo_dataset\images\train\00201.png  train  0  0
+yolo_dataset\images\val\00202.png  val  0  0
+yolo_dataset\images\train\00203.png  train  0  0
+yolo_dataset\images\train\00204.png  train  0  0
+yolo_dataset\images\val\00205.png  val  1  1  0 0.648438 0.330078 0.141461 0.168402
+yolo_dataset\images\train\00206.png  train  0  0
+yolo_dataset\images\train\00207.png  train  0  0
+yolo_dataset\images\train\00208.png  train  0  0
+yolo_dataset\images\train\00209.png  train  0  0
+yolo_dataset\images\train\00210.png  train  1  2  0 0.714844 0.695312 0.139893 0.034380 | 0 0.595703 0.533203 0.132276 0.167119
+yolo_dataset\images\train\00211.png  train  1  3  0 0.712891 0.832031 0.086137 0.093567 | 0 0.443359 0.726562 0.093068 0.174795 | 0 0.640625 0.589844 0.167109 0.124442
+yolo_dataset\images\train\00212.png  train  1  3  0 0.322266 0.455078 0.049003 0.048731 | 0 0.570312 0.396484 0.046875 0.046875 | 0 0.496094 0.429688 0.089809 0.172425
+yolo_dataset\images\train\00213.png  train  0  0
+yolo_dataset\images\train\00214.png  train  0  0
+yolo_dataset\images\train\00215.png  train  0  0
+yolo_dataset\images\val\00216.png  val  0  0
+yolo_dataset\images\train\00217.png  train  0  0
+yolo_dataset\images\val\00218.png  val  0  0
+yolo_dataset\images\val\00219.png  val  0  0
+yolo_dataset\images\train\00220.png  train  0  0
+yolo_dataset\images\train\00221.png  train  0  0
+yolo_dataset\images\val\00222.png  val  0  0
+yolo_dataset\images\train\00223.png  train  1  1  0 0.730469 0.556641 0.089816 0.062541
+yolo_dataset\images\train\00224.png  train  0  0
+yolo_dataset\images\train\00225.png  train  1  2  0 0.414062 0.248047 0.031725 0.054413 | 0 0.644531 0.464844 0.142068 0.180631
+yolo_dataset\images\train\00226.png  train  1  1  0 0.275391 0.287109 0.155507 0.166150
+yolo_dataset\images\train\00227.png  train  0  0
+yolo_dataset\images\train\00228.png  train  0  0
+yolo_dataset\images\train\00229.png  train  1  1  0 0.423828 0.222656 0.105041 0.138046
+yolo_dataset\images\train\00230.png  train  1  2  0 0.300781 0.275391 0.081990 0.035251 | 0 0.273438 0.552734 0.160371 0.106225
+yolo_dataset\images\train\00231.png  train  1  3  0 0.210938 0.332031 0.157904 0.151236 | 0 0.765625 0.437500 0.064826 0.095411 | 0 0.179688 0.455078 0.085938 0.085938
+yolo_dataset\images\val\00232.png  val  1  3  0 0.583984 0.525391 0.074253 0.148421 | 0 0.294922 0.421875 0.145200 0.175229 | 0 0.388672 0.375000 0.113656 0.107221
+yolo_dataset\images\val\00233.png  val  1  3  0 0.472656 0.763672 0.087879 0.083404 | 0 0.667969 0.619141 0.070689 0.045137 | 0 0.521484 0.263672 0.132540 0.111156
+yolo_dataset\images\train\00234.png  train  0  0
+yolo_dataset\images\val\00235.png  val  0  0
+yolo_dataset\images\train\00236.png  train  1  2  0 0.306641 0.289062 0.058575 0.054707 | 0 0.412109 0.708984 0.089012 0.094862
+yolo_dataset\images\train\00237.png  train  0  0
+yolo_dataset\images\train\00238.png  train  0  0
+yolo_dataset\images\train\00239.png  train  0  0
+yolo_dataset\images\train\00240.png  train  0  0
+yolo_dataset\images\train\00241.png  train  1  2  0 0.552734 0.509766 0.191406 0.097656 | 0 0.404297 0.462891 0.087367 0.073368
+yolo_dataset\images\train\00242.png  train  0  0
+yolo_dataset\images\train\00243.png  train  0  0
+yolo_dataset\images\train\00244.png  train  1  3  0 0.212891 0.421875 0.133316 0.062527 | 0 0.521484 0.480469 0.074219 0.074219 | 0 0.419922 0.794922 0.095889 0.093048
+yolo_dataset\images\train\00245.png  train  0  0
+yolo_dataset\images\train\00246.png  train  0  0
+yolo_dataset\images\train\00247.png  train  1  2  0 0.703125 0.339844 0.067006 0.058821 | 0 0.781250 0.341797 0.072828 0.071752
+yolo_dataset\images\train\00248.png  train  0  0
+yolo_dataset\images\train\00249.png  train  1  2  0 0.542969 0.644531 0.195312 0.195312 | 0 0.705078 0.753906 0.060321 0.047768
+yolo_dataset\images\train\00250.png  train  0  0
+yolo_dataset\images\train\00251.png  train  0  0
+yolo_dataset\images\val\00252.png  val  0  0
+yolo_dataset\images\train\00253.png  train  0  0
+yolo_dataset\images\val\00254.png  val  0  0
+yolo_dataset\images\train\00255.png  train  0  0
+yolo_dataset\images\train\00256.png  train  0  0
+yolo_dataset\images\train\00257.png  train  0  0
+yolo_dataset\images\train\00258.png  train  0  0
+yolo_dataset\images\train\00259.png  train  0  0
+yolo_dataset\images\train\00260.png  train  0  0
+yolo_dataset\images\train\00261.png  train  0  0
+yolo_dataset\images\train\00262.png  train  1  1  0 0.269531 0.365234 0.045474 0.033256
+yolo_dataset\images\train\00263.png  train  0  0
+yolo_dataset\images\train\00264.png  train  1  2  0 0.562500 0.425781 0.042991 0.058577 | 0 0.765625 0.816406 0.129540 0.117009
+yolo_dataset\images\val\00265.png  val  0  0
+yolo_dataset\images\train\00266.png  train  1  3  0 0.585938 0.597656 0.104121 0.135458 | 0 0.695312 0.550781 0.187410 0.168069 | 0 0.541016 0.707031 0.059666 0.098797
+yolo_dataset\images\train\00267.png  train  0  0
+yolo_dataset\images\train\00268.png  train  0  0
+yolo_dataset\images\train\00269.png  train  0  0
+yolo_dataset\images\train\00270.png  train  1  1  0 0.806641 0.814453 0.050296 0.043536
+yolo_dataset\images\train\00271.png  train  1  1  0 0.820312 0.572266 0.073812 0.075437
+yolo_dataset\images\train\00272.png  train  0  0
+yolo_dataset\images\train\00273.png  train  0  0
+yolo_dataset\images\train\00274.png  train  0  0
+yolo_dataset\images\train\00275.png  train  1  2  0 0.363281 0.773438 0.101947 0.057525 | 0 0.449219 0.560547 0.067989 0.050185
+yolo_dataset\images\train\00276.png  train  0  0
+yolo_dataset\images\train\00277.png  train  0  0
+yolo_dataset\images\train\00278.png  train  1  3  0 0.269531 0.830078 0.057998 0.039941 | 0 0.738281 0.394531 0.088691 0.161082 | 0 0.371094 0.339844 0.075569 0.096537
+yolo_dataset\images\train\00279.png  train  0  0
+yolo_dataset\images\train\00280.png  train  0  0
+yolo_dataset\images\train\00281.png  train  0  0
+yolo_dataset\images\train\00282.png  train  0  0
+yolo_dataset\images\train\00283.png  train  0  0
+yolo_dataset\images\train\00284.png  train  0  0
+yolo_dataset\images\train\00285.png  train  1  3  0 0.375000 0.373047 0.082276 0.068817 | 0 0.753906 0.187500 0.103047 0.097037 | 0 0.595703 0.669922 0.093802 0.110026
+yolo_dataset\images\train\00286.png  train  0  0
+yolo_dataset\images\train\00287.png  train  0  0
+yolo_dataset\images\val\00288.png  val  0  0
+yolo_dataset\images\train\00289.png  train  0  0
+yolo_dataset\images\train\00290.png  train  0  0
+yolo_dataset\images\train\00291.png  train  1  1  0 0.708984 0.759766 0.081380 0.036638
+yolo_dataset\images\train\00292.png  train  1  1  0 0.333984 0.582031 0.065878 0.096760
+yolo_dataset\images\val\00293.png  val  1  2  0 0.644531 0.767578 0.157809 0.125482 | 0 0.417969 0.214844 0.106846 0.126748
+yolo_dataset\images\val\00294.png  val  0  0
+yolo_dataset\images\train\00295.png  train  0  0
+yolo_dataset\images\train\00296.png  train  1  3  0 0.736328 0.257812 0.132729 0.180849 | 0 0.660156 0.750000 0.065559 0.061557 | 0 0.482422 0.349609 0.066391 0.072884
+yolo_dataset\images\train\00297.png  train  1  2  0 0.421875 0.310547 0.113912 0.111490 | 0 0.585938 0.271484 0.106831 0.087438
+yolo_dataset\images\train\00298.png  train  1  3  0 0.603516 0.240234 0.114881 0.122788 | 0 0.474609 0.560547 0.162188 0.135603 | 0 0.197266 0.218750 0.106762 0.090353
+yolo_dataset\images\train\00299.png  train  1  1  0 0.550781 0.767578 0.053195 0.112168

@@ -1,0 +1,32 @@
+[
+  {
+    "image_id": "00000",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00000.png",
+    "state": {
+      "x": 0.0,
+      "y": 0.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00001",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00001.png",
+    "state": {
+      "x": 5.0,
+      "y": 0.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  }
+]

@@ -1,0 +1,3849 @@
+[
+  {
+    "image_id": "00000",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00000.png",
+    "state": {
+      "x": 0.0,
+      "y": 0.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.409857,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.409857,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        321.0,
+        415.0,
+        457.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 7514,
+      "mask_bounds_px": {
+        "x_min": 404,
+        "x_max": 561,
+        "y_min": 521,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 158,
+      "axis_aligned_height_px": 119,
+      "rotated_length_px": 148.184,
+      "rotated_width_px": 62.1766,
+      "rotated_angle_deg": 48.9183,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 3.0056,
+      "axis_aligned_width_m": 3.16,
+      "axis_aligned_height_m": 2.38,
+      "rotated_length_m": 2.9637,
+      "rotated_width_m": 1.2435
+    }
+  },
+  {
+    "image_id": "00001",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00001.png",
+    "state": {
+      "x": 5.0,
+      "y": 0.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.341205,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.341205,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        136.0,
+        193.0,
+        242.0,
+        341.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 11948,
+      "mask_bounds_px": {
+        "x_min": 172,
+        "x_max": 298,
+        "y_min": 244,
+        "y_max": 426
+      },
+      "axis_aligned_width_px": 127,
+      "axis_aligned_height_px": 183,
+      "rotated_length_px": 199.0274,
+      "rotated_width_px": 71.7879,
+      "rotated_angle_deg": 32.4712,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 4.7792,
+      "axis_aligned_width_m": 2.54,
+      "axis_aligned_height_m": 3.66,
+      "rotated_length_m": 3.9805,
+      "rotated_width_m": 1.4358
+    }
+  },
+  {
+    "image_id": "00002",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00002.png",
+    "state": {
+      "x": -5.0,
+      "y": 0.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.458065,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.458065,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        338.0,
+        261.0,
+        405.0,
+        318.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 3478,
+      "mask_bounds_px": {
+        "x_min": 424,
+        "x_max": 507,
+        "y_min": 328,
+        "y_max": 398
+      },
+      "axis_aligned_width_px": 84,
+      "axis_aligned_height_px": 71,
+      "rotated_length_px": 96.8099,
+      "rotated_width_px": 43.0449,
+      "rotated_angle_deg": 53.3659,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.3912,
+      "axis_aligned_width_m": 1.68,
+      "axis_aligned_height_m": 1.42,
+      "rotated_length_m": 1.9362,
+      "rotated_width_m": 0.8609
+    }
+  },
+  {
+    "image_id": "00003",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00003.png",
+    "state": {
+      "x": 0.0,
+      "y": 0.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.492223,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.492223,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        28.0,
+        360.0,
+        103.0,
+        453.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 5477,
+      "mask_bounds_px": {
+        "x_min": 36,
+        "x_max": 130,
+        "y_min": 452,
+        "y_max": 566
+      },
+      "axis_aligned_width_px": 95,
+      "axis_aligned_height_px": 115,
+      "rotated_length_px": 135.4,
+      "rotated_width_px": 57.2,
+      "rotated_angle_deg": 53.1301,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 2.1908,
+      "axis_aligned_width_m": 1.9,
+      "axis_aligned_height_m": 2.3,
+      "rotated_length_m": 2.708,
+      "rotated_width_m": 1.144
+    }
+  },
+  {
+    "image_id": "00004",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00004.png",
+    "state": {
+      "x": 0.0,
+      "y": 0.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.502265,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.502265,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        321.0,
+        3.0,
+        509.0,
+        154.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 8704,
+      "mask_bounds_px": {
+        "x_min": 404,
+        "x_max": 639,
+        "y_min": 5,
+        "y_max": 175
+      },
+      "axis_aligned_width_px": 236,
+      "axis_aligned_height_px": 171,
+      "rotated_length_px": 118.4797,
+      "rotated_width_px": 64.0404,
+      "rotated_angle_deg": 46.9749,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 3.4816,
+      "axis_aligned_width_m": 4.72,
+      "axis_aligned_height_m": 3.42,
+      "rotated_length_m": 2.3696,
+      "rotated_width_m": 1.2808
+    }
+  },
+  {
+    "image_id": "00005",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00005.png",
+    "state": {
+      "x": 10.0,
+      "y": 0.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.402324,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.402324,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        0.0,
+        0.0,
+        245.0,
+        255.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 75812,
+      "mask_bounds_px": {
+        "x_min": 0,
+        "x_max": 307,
+        "y_min": 0,
+        "y_max": 305
+      },
+      "axis_aligned_width_px": 308,
+      "axis_aligned_height_px": 306,
+      "rotated_length_px": 306.9999,
+      "rotated_width_px": 304.9999,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 30.3248,
+      "axis_aligned_width_m": 6.16,
+      "axis_aligned_height_m": 6.12,
+      "rotated_length_m": 6.14,
+      "rotated_width_m": 6.1
+    }
+  },
+  {
+    "image_id": "00006",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00006.png",
+    "state": {
+      "x": 5.0,
+      "y": 0.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.43521,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.43521,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        1.0,
+        395.0,
+        85.0,
+        491.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 5972,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 107,
+        "y_min": 496,
+        "y_max": 610
+      },
+      "axis_aligned_width_px": 104,
+      "axis_aligned_height_px": 115,
+      "rotated_length_px": 143.6693,
+      "rotated_width_px": 65.8323,
+      "rotated_angle_deg": 40.3894,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 2.3888,
+      "axis_aligned_width_m": 2.08,
+      "axis_aligned_height_m": 2.3,
+      "rotated_length_m": 2.8734,
+      "rotated_width_m": 1.3166
+    }
+  },
+  {
+    "image_id": "00007",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00007.png",
+    "state": {
+      "x": 5.0,
+      "y": 0.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.515547,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.515547,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        361.0,
+        1.0,
+        511.0,
+        115.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 10209,
+      "mask_bounds_px": {
+        "x_min": 452,
+        "x_max": 639,
+        "y_min": 4,
+        "y_max": 145
+      },
+      "axis_aligned_width_px": 188,
+      "axis_aligned_height_px": 142,
+      "rotated_length_px": 215.1778,
+      "rotated_width_px": 63.1805,
+      "rotated_angle_deg": 44.7384,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 4.0836,
+      "axis_aligned_width_m": 3.76,
+      "axis_aligned_height_m": 2.84,
+      "rotated_length_m": 4.3036,
+      "rotated_width_m": 1.2636
+    }
+  },
+  {
+    "image_id": "00008",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00008.png",
+    "state": {
+      "x": -10.0,
+      "y": 0.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.766934,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.766934,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        423.0,
+        94.0,
+        510.0,
+        198.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 6533,
+      "mask_bounds_px": {
+        "x_min": 532,
+        "x_max": 639,
+        "y_min": 120,
+        "y_max": 247
+      },
+      "axis_aligned_width_px": 108,
+      "axis_aligned_height_px": 128,
+      "rotated_length_px": 156.3852,
+      "rotated_width_px": 49.327,
+      "rotated_angle_deg": 44.6726,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 2.6132,
+      "axis_aligned_width_m": 2.16,
+      "axis_aligned_height_m": 2.56,
+      "rotated_length_m": 3.1277,
+      "rotated_width_m": 0.9865
+    }
+  },
+  {
+    "image_id": "00009",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00009.png",
+    "state": {
+      "x": -5.0,
+      "y": 0.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.316575,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.316575,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        272.0,
+        122.0,
+        510.0,
+        272.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 15782,
+      "mask_bounds_px": {
+        "x_min": 416,
+        "x_max": 639,
+        "y_min": 156,
+        "y_max": 334
+      },
+      "axis_aligned_width_px": 224,
+      "axis_aligned_height_px": 179,
+      "rotated_length_px": 284.099,
+      "rotated_width_px": 121.1745,
+      "rotated_angle_deg": 42.1844,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 6.3128,
+      "axis_aligned_width_m": 4.48,
+      "axis_aligned_height_m": 3.58,
+      "rotated_length_m": 5.682,
+      "rotated_width_m": 2.4235
+    }
+  },
+  {
+    "image_id": "00010",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00010.png",
+    "state": {
+      "x": -5.0,
+      "y": 0.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.571322,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.571322,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        415.0,
+        59.0,
+        489.0,
+        127.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4038,
+      "mask_bounds_px": {
+        "x_min": 520,
+        "x_max": 611,
+        "y_min": 76,
+        "y_max": 155
+      },
+      "axis_aligned_width_px": 92,
+      "axis_aligned_height_px": 80,
+      "rotated_length_px": 76.3675,
+      "rotated_width_px": 61.5183,
+      "rotated_angle_deg": 45.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.6152,
+      "axis_aligned_width_m": 1.84,
+      "axis_aligned_height_m": 1.6,
+      "rotated_length_m": 1.5274,
+      "rotated_width_m": 1.2304
+    }
+  },
+  {
+    "image_id": "00011",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00011.png",
+    "state": {
+      "x": 0.0,
+      "y": -5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.560757,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.560757,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        170.0,
+        477.0,
+        237.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 2007,
+      "mask_bounds_px": {
+        "x_min": 212,
+        "x_max": 295,
+        "y_min": 600,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 84,
+      "axis_aligned_height_px": 40,
+      "rotated_length_px": 83.0,
+      "rotated_width_px": 39.0,
+      "rotated_angle_deg": -0.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.8028,
+      "axis_aligned_width_m": 1.68,
+      "axis_aligned_height_m": 0.8,
+      "rotated_length_m": 1.66,
+      "rotated_width_m": 0.78
+    }
+  },
+  {
+    "image_id": "00012",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00012.png",
+    "state": {
+      "x": 0.0,
+      "y": 5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.814857,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.814857,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        344.0,
+        469.0,
+        426.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 3161,
+      "mask_bounds_px": {
+        "x_min": 434,
+        "x_max": 535,
+        "y_min": 588,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 102,
+      "axis_aligned_height_px": 52,
+      "rotated_length_px": 94.0,
+      "rotated_width_px": 51.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.2644,
+      "axis_aligned_width_m": 2.04,
+      "axis_aligned_height_m": 1.04,
+      "rotated_length_m": 1.88,
+      "rotated_width_m": 1.02
+    }
+  },
+  {
+    "image_id": "00013",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00013.png",
+    "state": {
+      "x": 0.0,
+      "y": 0.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.456992,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.456992,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        96.0,
+        3.0,
+        167.0,
+        80.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 5053,
+      "mask_bounds_px": {
+        "x_min": 124,
+        "x_max": 210,
+        "y_min": 4,
+        "y_max": 101
+      },
+      "axis_aligned_width_px": 87,
+      "axis_aligned_height_px": 98,
+      "rotated_length_px": 100.8803,
+      "rotated_width_px": 58.3159,
+      "rotated_angle_deg": 45.5673,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 2.0212,
+      "axis_aligned_width_m": 1.74,
+      "axis_aligned_height_m": 1.96,
+      "rotated_length_m": 2.0176,
+      "rotated_width_m": 1.1663
+    }
+  },
+  {
+    "image_id": "00014",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00014.png",
+    "state": {
+      "x": 0.0,
+      "y": 5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.517429,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.517429,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        24.0,
+        21.0,
+        99.0,
+        70.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4078,
+      "mask_bounds_px": {
+        "x_min": 32,
+        "x_max": 123,
+        "y_min": 28,
+        "y_max": 86
+      },
+      "axis_aligned_width_px": 92,
+      "axis_aligned_height_px": 59,
+      "rotated_length_px": 97.1831,
+      "rotated_width_px": 50.8797,
+      "rotated_angle_deg": 13.7363,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.6312,
+      "axis_aligned_width_m": 1.84,
+      "axis_aligned_height_m": 1.18,
+      "rotated_length_m": 1.9437,
+      "rotated_width_m": 1.0176
+    }
+  },
+  {
+    "image_id": "00015",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00015.png",
+    "state": {
+      "x": 0.0,
+      "y": -5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.465334,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.465334,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        2.0,
+        131.0,
+        181.0,
+        297.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 18823,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 226,
+        "y_min": 168,
+        "y_max": 369
+      },
+      "axis_aligned_width_px": 223,
+      "axis_aligned_height_px": 202,
+      "rotated_length_px": 261.5734,
+      "rotated_width_px": 108.4053,
+      "rotated_angle_deg": 28.3834,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 7.5292,
+      "axis_aligned_width_m": 4.46,
+      "axis_aligned_height_m": 4.04,
+      "rotated_length_m": 5.2315,
+      "rotated_width_m": 2.1681
+    }
+  },
+  {
+    "image_id": "00016",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00016.png",
+    "state": {
+      "x": 10.0,
+      "y": 0.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.803561,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.803561,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        354.0,
+        0.0,
+        511.0,
+        191.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 31091,
+      "mask_bounds_px": {
+        "x_min": 446,
+        "x_max": 639,
+        "y_min": 4,
+        "y_max": 236
+      },
+      "axis_aligned_width_px": 194,
+      "axis_aligned_height_px": 233,
+      "rotated_length_px": 232.0,
+      "rotated_width_px": 193.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 12.4364,
+      "axis_aligned_width_m": 3.88,
+      "axis_aligned_height_m": 4.66,
+      "rotated_length_m": 4.64,
+      "rotated_width_m": 3.86
+    }
+  },
+  {
+    "image_id": "00017",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00017.png",
+    "state": {
+      "x": 10.0,
+      "y": 0.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.574886,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.574886,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        426.0,
+        53.0,
+        504.0,
+        115.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4656,
+      "mask_bounds_px": {
+        "x_min": 536,
+        "x_max": 631,
+        "y_min": 68,
+        "y_max": 141
+      },
+      "axis_aligned_width_px": 96,
+      "axis_aligned_height_px": 74,
+      "rotated_length_px": 95.8907,
+      "rotated_width_px": 59.8146,
+      "rotated_angle_deg": 38.6598,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.8624,
+      "axis_aligned_width_m": 1.92,
+      "axis_aligned_height_m": 1.48,
+      "rotated_length_m": 1.9178,
+      "rotated_width_m": 1.1963
+    }
+  },
+  {
+    "image_id": "00018",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00018.png",
+    "state": {
+      "x": 5.0,
+      "y": -5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.626271,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.626271,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        90.0,
+        477.0,
+        163.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 2381,
+      "mask_bounds_px": {
+        "x_min": 112,
+        "x_max": 202,
+        "y_min": 600,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 91,
+      "axis_aligned_height_px": 40,
+      "rotated_length_px": 90.0,
+      "rotated_width_px": 39.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.9524,
+      "axis_aligned_width_m": 1.82,
+      "axis_aligned_height_m": 0.8,
+      "rotated_length_m": 1.8,
+      "rotated_width_m": 0.78
+    }
+  },
+  {
+    "image_id": "00019",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00019.png",
+    "state": {
+      "x": 5.0,
+      "y": 5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.827315,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.827315,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        265.0,
+        470.0,
+        351.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 3278,
+      "mask_bounds_px": {
+        "x_min": 336,
+        "x_max": 439,
+        "y_min": 588,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 104,
+      "axis_aligned_height_px": 52,
+      "rotated_length_px": 97.0,
+      "rotated_width_px": 51.0,
+      "rotated_angle_deg": -0.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.3112,
+      "axis_aligned_width_m": 2.08,
+      "axis_aligned_height_m": 1.04,
+      "rotated_length_m": 1.94,
+      "rotated_width_m": 1.02
+    }
+  },
+  {
+    "image_id": "00020",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00020.png",
+    "state": {
+      "x": 5.0,
+      "y": 0.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.433682,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.433682,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        1.0,
+        0.0,
+        59.0,
+        51.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 3647,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 74,
+        "y_min": 0,
+        "y_max": 66
+      },
+      "axis_aligned_width_px": 71,
+      "axis_aligned_height_px": 67,
+      "rotated_length_px": 70.0,
+      "rotated_width_px": 66.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.4588,
+      "axis_aligned_width_m": 1.42,
+      "axis_aligned_height_m": 1.34,
+      "rotated_length_m": 1.4,
+      "rotated_width_m": 1.32
+    }
+  },
+  {
+    "image_id": "00021",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00021.png",
+    "state": {
+      "x": 5.0,
+      "y": 5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.513841,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.513841,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        88.0,
+        10.0,
+        164.0,
+        63.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4545,
+      "mask_bounds_px": {
+        "x_min": 112,
+        "x_max": 206,
+        "y_min": 16,
+        "y_max": 79
+      },
+      "axis_aligned_width_px": 95,
+      "axis_aligned_height_px": 64,
+      "rotated_length_px": 98.3265,
+      "rotated_width_px": 54.9099,
+      "rotated_angle_deg": 14.6764,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.818,
+      "axis_aligned_width_m": 1.9,
+      "axis_aligned_height_m": 1.28,
+      "rotated_length_m": 1.9665,
+      "rotated_width_m": 1.0982
+    }
+  },
+  {
+    "image_id": "00022",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00022.png",
+    "state": {
+      "x": 5.0,
+      "y": -5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.374195,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.374195,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        1.0,
+        126.0,
+        245.0,
+        297.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 26952,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 306,
+        "y_min": 161,
+        "y_max": 370
+      },
+      "axis_aligned_width_px": 303,
+      "axis_aligned_height_px": 210,
+      "rotated_length_px": 348.4713,
+      "rotated_width_px": 143.047,
+      "rotated_angle_deg": 17.1718,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 10.7808,
+      "axis_aligned_width_m": 6.06,
+      "axis_aligned_height_m": 4.2,
+      "rotated_length_m": 6.9694,
+      "rotated_width_m": 2.8609
+    }
+  },
+  {
+    "image_id": "00023",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00023.png",
+    "state": {
+      "x": -15.0,
+      "y": 0.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.569251,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.569251,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        314.0,
+        7.0,
+        393.0,
+        95.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 5369,
+      "mask_bounds_px": {
+        "x_min": 396,
+        "x_max": 491,
+        "y_min": 12,
+        "y_max": 118
+      },
+      "axis_aligned_width_px": 96,
+      "axis_aligned_height_px": 107,
+      "rotated_length_px": 124.1652,
+      "rotated_width_px": 49.2852,
+      "rotated_angle_deg": 46.1691,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 2.1476,
+      "axis_aligned_width_m": 1.92,
+      "axis_aligned_height_m": 2.14,
+      "rotated_length_m": 2.4833,
+      "rotated_width_m": 0.9857
+    }
+  },
+  {
+    "image_id": "00024",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00024.png",
+    "state": {
+      "x": -10.0,
+      "y": 0.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.429847,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.429847,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        290.0,
+        47.0,
+        511.0,
+        225.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 13201,
+      "mask_bounds_px": {
+        "x_min": 444,
+        "x_max": 639,
+        "y_min": 60,
+        "y_max": 280
+      },
+      "axis_aligned_width_px": 196,
+      "axis_aligned_height_px": 221,
+      "rotated_length_px": 291.608,
+      "rotated_width_px": 109.16,
+      "rotated_angle_deg": 50.5275,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 5.2804,
+      "axis_aligned_width_m": 3.92,
+      "axis_aligned_height_m": 4.42,
+      "rotated_length_m": 5.8322,
+      "rotated_width_m": 2.1832
+    }
+  },
+  {
+    "image_id": "00025",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00025.png",
+    "state": {
+      "x": -10.0,
+      "y": 0.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.717046,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.717046,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        175.0,
+        17.0,
+        248.0,
+        75.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 3984,
+      "mask_bounds_px": {
+        "x_min": 220,
+        "x_max": 311,
+        "y_min": 24,
+        "y_max": 95
+      },
+      "axis_aligned_width_px": 92,
+      "axis_aligned_height_px": 72,
+      "rotated_length_px": 97.6086,
+      "rotated_width_px": 47.3206,
+      "rotated_angle_deg": 38.6598,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.5936,
+      "axis_aligned_width_m": 1.84,
+      "axis_aligned_height_m": 1.44,
+      "rotated_length_m": 1.9522,
+      "rotated_width_m": 0.9464
+    }
+  },
+  {
+    "image_id": "00026",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00026.png",
+    "state": {
+      "x": -5.0,
+      "y": -5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.689871,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.689871,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        249.0,
+        476.0,
+        313.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 2121,
+      "mask_bounds_px": {
+        "x_min": 313,
+        "x_max": 390,
+        "y_min": 596,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 78,
+      "axis_aligned_height_px": 44,
+      "rotated_length_px": 77.0,
+      "rotated_width_px": 43.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.8484,
+      "axis_aligned_width_m": 1.56,
+      "axis_aligned_height_m": 0.88,
+      "rotated_length_m": 1.54,
+      "rotated_width_m": 0.86
+    }
+  },
+  {
+    "image_id": "00027",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00027.png",
+    "state": {
+      "x": -5.0,
+      "y": 5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.846454,
+    "ground_truth_has_pothole": true,
+    "detection": {
+      "confidence": 0.846454,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        421.0,
+        465.0,
+        500.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 3053,
+      "mask_bounds_px": {
+        "x_min": 530,
+        "x_max": 624,
+        "y_min": 584,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 95,
+      "axis_aligned_height_px": 56,
+      "rotated_length_px": 86.0876,
+      "rotated_width_px": 58.898,
+      "rotated_angle_deg": 41.8779,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.2212,
+      "axis_aligned_width_m": 1.9,
+      "axis_aligned_height_m": 1.12,
+      "rotated_length_m": 1.7218,
+      "rotated_width_m": 1.178
+    }
+  },
+  {
+    "image_id": "00028",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00028.png",
+    "state": {
+      "x": -5.0,
+      "y": 0.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.60084,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.60084,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        2.0,
+        275.0,
+        76.0,
+        350.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4720,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 95,
+        "y_min": 344,
+        "y_max": 438
+      },
+      "axis_aligned_width_px": 92,
+      "axis_aligned_height_px": 95,
+      "rotated_length_px": 118.8121,
+      "rotated_width_px": 47.0274,
+      "rotated_angle_deg": 42.7094,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.888,
+      "axis_aligned_width_m": 1.84,
+      "axis_aligned_height_m": 1.9,
+      "rotated_length_m": 2.3762,
+      "rotated_width_m": 0.9405
+    }
+  },
+  {
+    "image_id": "00029",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00029.png",
+    "state": {
+      "x": -5.0,
+      "y": 5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.679371,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.679371,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        0.0,
+        31.0,
+        41.0,
+        76.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 2225,
+      "mask_bounds_px": {
+        "x_min": 0,
+        "x_max": 50,
+        "y_min": 40,
+        "y_max": 95
+      },
+      "axis_aligned_width_px": 51,
+      "axis_aligned_height_px": 56,
+      "rotated_length_px": 55.0,
+      "rotated_width_px": 50.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.89,
+      "axis_aligned_width_m": 1.02,
+      "axis_aligned_height_m": 1.12,
+      "rotated_length_m": 1.1,
+      "rotated_width_m": 1.0
+    }
+  },
+  {
+    "image_id": "00030",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00030.png",
+    "state": {
+      "x": -5.0,
+      "y": -5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.278685,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.278685,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        305.0,
+        68.0,
+        363.0,
+        132.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 3482,
+      "mask_bounds_px": {
+        "x_min": 384,
+        "x_max": 454,
+        "y_min": 88,
+        "y_max": 161
+      },
+      "axis_aligned_width_px": 71,
+      "axis_aligned_height_px": 74,
+      "rotated_length_px": 86.1563,
+      "rotated_width_px": 48.5298,
+      "rotated_angle_deg": 48.6914,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.3928,
+      "axis_aligned_width_m": 1.42,
+      "axis_aligned_height_m": 1.48,
+      "rotated_length_m": 1.7231,
+      "rotated_width_m": 0.9706
+    }
+  },
+  {
+    "image_id": "00031",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00031.png",
+    "state": {
+      "x": 0.0,
+      "y": -10.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.355938,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.355938,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        327.0,
+        289.0,
+        488.0,
+        410.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 15213,
+      "mask_bounds_px": {
+        "x_min": 412,
+        "x_max": 600,
+        "y_min": 365,
+        "y_max": 514
+      },
+      "axis_aligned_width_px": 189,
+      "axis_aligned_height_px": 150,
+      "rotated_length_px": 217.6091,
+      "rotated_width_px": 103.6223,
+      "rotated_angle_deg": 29.9667,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 6.0852,
+      "axis_aligned_width_m": 3.78,
+      "axis_aligned_height_m": 3.0,
+      "rotated_length_m": 4.3522,
+      "rotated_width_m": 2.0724
+    }
+  },
+  {
+    "image_id": "00032",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00032.png",
+    "state": {
+      "x": 0.0,
+      "y": -5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00033",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00033.png",
+    "state": {
+      "x": 0.0,
+      "y": -5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00034",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00034.png",
+    "state": {
+      "x": 0.0,
+      "y": 5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.693556,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.693556,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        142.0,
+        380.0,
+        179.0,
+        438.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 2162,
+      "mask_bounds_px": {
+        "x_min": 180,
+        "x_max": 219,
+        "y_min": 476,
+        "y_max": 547
+      },
+      "axis_aligned_width_px": 40,
+      "axis_aligned_height_px": 72,
+      "rotated_length_px": 72.4781,
+      "rotated_width_px": 35.8243,
+      "rotated_angle_deg": 9.0903,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.8648,
+      "axis_aligned_width_m": 0.8,
+      "axis_aligned_height_m": 1.44,
+      "rotated_length_m": 1.4496,
+      "rotated_width_m": 0.7165
+    }
+  },
+  {
+    "image_id": "00035",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00035.png",
+    "state": {
+      "x": 0.0,
+      "y": 5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.728783,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.728783,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        446.0,
+        56.0,
+        493.0,
+        99.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 1921,
+      "mask_bounds_px": {
+        "x_min": 560,
+        "x_max": 615,
+        "y_min": 72,
+        "y_max": 120
+      },
+      "axis_aligned_width_px": 56,
+      "axis_aligned_height_px": 49,
+      "rotated_length_px": 61.8266,
+      "rotated_width_px": 39.2951,
+      "rotated_angle_deg": 32.7352,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.7684,
+      "axis_aligned_width_m": 1.12,
+      "axis_aligned_height_m": 0.98,
+      "rotated_length_m": 1.2365,
+      "rotated_width_m": 0.7859
+    }
+  },
+  {
+    "image_id": "00036",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00036.png",
+    "state": {
+      "x": 0.0,
+      "y": -10.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.724166,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.724166,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        1.0,
+        379.0,
+        53.0,
+        512.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 6521,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 67,
+        "y_min": 476,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 64,
+      "axis_aligned_height_px": 164,
+      "rotated_length_px": 171.5062,
+      "rotated_width_px": 57.597,
+      "rotated_angle_deg": 74.4759,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 2.6084,
+      "axis_aligned_width_m": 1.28,
+      "axis_aligned_height_m": 3.28,
+      "rotated_length_m": 3.4301,
+      "rotated_width_m": 1.1519
+    }
+  },
+  {
+    "image_id": "00037",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00037.png",
+    "state": {
+      "x": 10.0,
+      "y": -5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.694943,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.694943,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        2.0,
+        480.0,
+        77.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 2086,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 95,
+        "y_min": 604,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 92,
+      "axis_aligned_height_px": 36,
+      "rotated_length_px": 91.0,
+      "rotated_width_px": 35.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.8344,
+      "axis_aligned_width_m": 1.84,
+      "axis_aligned_height_m": 0.72,
+      "rotated_length_m": 1.82,
+      "rotated_width_m": 0.7
+    }
+  },
+  {
+    "image_id": "00038",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00038.png",
+    "state": {
+      "x": 10.0,
+      "y": 5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.631372,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.631372,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        180.0,
+        473.0,
+        265.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 3036,
+      "mask_bounds_px": {
+        "x_min": 228,
+        "x_max": 331,
+        "y_min": 592,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 104,
+      "axis_aligned_height_px": 48,
+      "rotated_length_px": 101.0,
+      "rotated_width_px": 47.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.2144,
+      "axis_aligned_width_m": 2.08,
+      "axis_aligned_height_m": 0.96,
+      "rotated_length_m": 2.02,
+      "rotated_width_m": 0.94
+    }
+  },
+  {
+    "image_id": "00039",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00039.png",
+    "state": {
+      "x": 10.0,
+      "y": 0.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.266191,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.266191,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        306.0,
+        274.0,
+        512.0,
+        429.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 37915,
+      "mask_bounds_px": {
+        "x_min": 385,
+        "x_max": 639,
+        "y_min": 344,
+        "y_max": 539
+      },
+      "axis_aligned_width_px": 255,
+      "axis_aligned_height_px": 196,
+      "rotated_length_px": 254.0,
+      "rotated_width_px": 195.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 15.166,
+      "axis_aligned_width_m": 5.1,
+      "axis_aligned_height_m": 3.92,
+      "rotated_length_m": 5.08,
+      "rotated_width_m": 3.9
+    }
+  },
+  {
+    "image_id": "00040",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00040.png",
+    "state": {
+      "x": 10.0,
+      "y": 5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.392983,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.392983,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        109.0,
+        288.0,
+        415.0,
+        490.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 29362,
+      "mask_bounds_px": {
+        "x_min": 136,
+        "x_max": 507,
+        "y_min": 368,
+        "y_max": 615
+      },
+      "axis_aligned_width_px": 372,
+      "axis_aligned_height_px": 248,
+      "rotated_length_px": 423.5391,
+      "rotated_width_px": 123.6835,
+      "rotated_angle_deg": 29.0042,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 11.7448,
+      "axis_aligned_width_m": 7.44,
+      "axis_aligned_height_m": 4.96,
+      "rotated_length_m": 8.4708,
+      "rotated_width_m": 2.4737
+    }
+  },
+  {
+    "image_id": "00041",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00041.png",
+    "state": {
+      "x": 10.0,
+      "y": -5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.376616,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.376616,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        0.0,
+        270.0,
+        195.0,
+        512.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 46055,
+      "mask_bounds_px": {
+        "x_min": 0,
+        "x_max": 238,
+        "y_min": 340,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 239,
+      "axis_aligned_height_px": 300,
+      "rotated_length_px": 299.0,
+      "rotated_width_px": 238.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 18.422,
+      "axis_aligned_width_m": 4.78,
+      "axis_aligned_height_m": 6.0,
+      "rotated_length_m": 5.98,
+      "rotated_width_m": 4.76
+    }
+  },
+  {
+    "image_id": "00042",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00042.png",
+    "state": {
+      "x": 5.0,
+      "y": -10.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.641233,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.641233,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        0.0,
+        456.0,
+        73.0,
+        510.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4051,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 90,
+        "y_min": 572,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 87,
+      "axis_aligned_height_px": 68,
+      "rotated_length_px": 86.0,
+      "rotated_width_px": 67.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.6204,
+      "axis_aligned_width_m": 1.74,
+      "axis_aligned_height_m": 1.36,
+      "rotated_length_m": 1.72,
+      "rotated_width_m": 1.34
+    }
+  },
+  {
+    "image_id": "00043",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00043.png",
+    "state": {
+      "x": 5.0,
+      "y": -5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00044",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00044.png",
+    "state": {
+      "x": 5.0,
+      "y": -5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.256856,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.256856,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        289.0,
+        163.0,
+        389.0,
+        320.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 12131,
+      "mask_bounds_px": {
+        "x_min": 364,
+        "x_max": 486,
+        "y_min": 205,
+        "y_max": 396
+      },
+      "axis_aligned_width_px": 123,
+      "axis_aligned_height_px": 192,
+      "rotated_length_px": 199.7092,
+      "rotated_width_px": 74.2081,
+      "rotated_angle_deg": 29.9457,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 4.8524,
+      "axis_aligned_width_m": 2.46,
+      "axis_aligned_height_m": 3.84,
+      "rotated_length_m": 3.9942,
+      "rotated_width_m": 1.4842
+    }
+  },
+  {
+    "image_id": "00045",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00045.png",
+    "state": {
+      "x": 5.0,
+      "y": 5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.440081,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.440081,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        153.0,
+        291.0,
+        178.0,
+        340.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 1598,
+      "mask_bounds_px": {
+        "x_min": 192,
+        "x_max": 223,
+        "y_min": 368,
+        "y_max": 424
+      },
+      "axis_aligned_width_px": 32,
+      "axis_aligned_height_px": 57,
+      "rotated_length_px": 56.0,
+      "rotated_width_px": 31.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.6392,
+      "axis_aligned_width_m": 0.64,
+      "axis_aligned_height_m": 1.14,
+      "rotated_length_m": 1.12,
+      "rotated_width_m": 0.62
+    }
+  },
+  {
+    "image_id": "00046",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00046.png",
+    "state": {
+      "x": 5.0,
+      "y": 5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.421092,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.421092,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        422.0,
+        139.0,
+        467.0,
+        166.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 1325,
+      "mask_bounds_px": {
+        "x_min": 532,
+        "x_max": 583,
+        "y_min": 176,
+        "y_max": 207
+      },
+      "axis_aligned_width_px": 52,
+      "axis_aligned_height_px": 32,
+      "rotated_length_px": 51.0,
+      "rotated_width_px": 31.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.53,
+      "axis_aligned_width_m": 1.04,
+      "axis_aligned_height_m": 0.64,
+      "rotated_length_m": 1.02,
+      "rotated_width_m": 0.62
+    }
+  },
+  {
+    "image_id": "00047",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00047.png",
+    "state": {
+      "x": 5.0,
+      "y": -10.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.522433,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.522433,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        1.0,
+        374.0,
+        103.0,
+        512.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 8988,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 123,
+        "y_min": 468,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 120,
+      "axis_aligned_height_px": 172,
+      "rotated_length_px": 200.0341,
+      "rotated_width_px": 65.2103,
+      "rotated_angle_deg": 56.8071,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 3.5952,
+      "axis_aligned_width_m": 2.4,
+      "axis_aligned_height_m": 3.44,
+      "rotated_length_m": 4.0007,
+      "rotated_width_m": 1.3042
+    }
+  },
+  {
+    "image_id": "00048",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00048.png",
+    "state": {
+      "x": -15.0,
+      "y": 0.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.714703,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.714703,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        423.0,
+        482.0,
+        497.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 1999,
+      "mask_bounds_px": {
+        "x_min": 532,
+        "x_max": 621,
+        "y_min": 604,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 90,
+      "axis_aligned_height_px": 36,
+      "rotated_length_px": 89.0,
+      "rotated_width_px": 35.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.7996,
+      "axis_aligned_width_m": 1.8,
+      "axis_aligned_height_m": 0.72,
+      "rotated_length_m": 1.78,
+      "rotated_width_m": 0.7
+    }
+  },
+  {
+    "image_id": "00049",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00049.png",
+    "state": {
+      "x": -15.0,
+      "y": 0.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.454195,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.454195,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        251.0,
+        186.0,
+        320.0,
+        260.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4064,
+      "mask_bounds_px": {
+        "x_min": 316,
+        "x_max": 393,
+        "y_min": 237,
+        "y_max": 321
+      },
+      "axis_aligned_width_px": 78,
+      "axis_aligned_height_px": 85,
+      "rotated_length_px": 95.0459,
+      "rotated_width_px": 52.3345,
+      "rotated_angle_deg": 51.009,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.6256,
+      "axis_aligned_width_m": 1.56,
+      "axis_aligned_height_m": 1.7,
+      "rotated_length_m": 1.9009,
+      "rotated_width_m": 1.0467
+    }
+  },
+  {
+    "image_id": "00050",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00050.png",
+    "state": {
+      "x": -10.0,
+      "y": -5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.467835,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.467835,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        3.0,
+        424.0,
+        49.0,
+        472.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 1991,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 59,
+        "y_min": 532,
+        "y_max": 589
+      },
+      "axis_aligned_width_px": 56,
+      "axis_aligned_height_px": 58,
+      "rotated_length_px": 60.4096,
+      "rotated_width_px": 40.3049,
+      "rotated_angle_deg": 56.6894,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.7964,
+      "axis_aligned_width_m": 1.12,
+      "axis_aligned_height_m": 1.16,
+      "rotated_length_m": 1.2082,
+      "rotated_width_m": 0.8061
+    }
+  },
+  {
+    "image_id": "00051",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00051.png",
+    "state": {
+      "x": -10.0,
+      "y": 5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.572307,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.572307,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        133.0,
+        199.0,
+        193.0,
+        264.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 3604,
+      "mask_bounds_px": {
+        "x_min": 168,
+        "x_max": 242,
+        "y_min": 252,
+        "y_max": 329
+      },
+      "axis_aligned_width_px": 75,
+      "axis_aligned_height_px": 78,
+      "rotated_length_px": 90.7709,
+      "rotated_width_px": 52.5947,
+      "rotated_angle_deg": 55.008,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.4416,
+      "axis_aligned_width_m": 1.5,
+      "axis_aligned_height_m": 1.56,
+      "rotated_length_m": 1.8154,
+      "rotated_width_m": 1.0519
+    }
+  },
+  {
+    "image_id": "00052",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00052.png",
+    "state": {
+      "x": -10.0,
+      "y": 0.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.504954,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.504954,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        63.0,
+        375.0,
+        137.0,
+        451.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4649,
+      "mask_bounds_px": {
+        "x_min": 80,
+        "x_max": 171,
+        "y_min": 472,
+        "y_max": 565
+      },
+      "axis_aligned_width_px": 92,
+      "axis_aligned_height_px": 94,
+      "rotated_length_px": 115.9954,
+      "rotated_width_px": 45.7951,
+      "rotated_angle_deg": 46.9092,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.8596,
+      "axis_aligned_width_m": 1.84,
+      "axis_aligned_height_m": 1.88,
+      "rotated_length_m": 2.3199,
+      "rotated_width_m": 0.9159
+    }
+  },
+  {
+    "image_id": "00053",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00053.png",
+    "state": {
+      "x": -10.0,
+      "y": 5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.430546,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.430546,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        0.0,
+        378.0,
+        128.0,
+        512.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 9541,
+      "mask_bounds_px": {
+        "x_min": 0,
+        "x_max": 152,
+        "y_min": 476,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 153,
+      "axis_aligned_height_px": 164,
+      "rotated_length_px": 222.8267,
+      "rotated_width_px": 53.3058,
+      "rotated_angle_deg": 45.8146,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 3.8164,
+      "axis_aligned_width_m": 3.06,
+      "axis_aligned_height_m": 3.28,
+      "rotated_length_m": 4.4565,
+      "rotated_width_m": 1.0661
+    }
+  },
+  {
+    "image_id": "00054",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00054.png",
+    "state": {
+      "x": -10.0,
+      "y": -5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.297546,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.297546,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        242.0,
+        98.0,
+        334.0,
+        223.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 8872,
+      "mask_bounds_px": {
+        "x_min": 307,
+        "x_max": 419,
+        "y_min": 124,
+        "y_max": 263
+      },
+      "axis_aligned_width_px": 113,
+      "axis_aligned_height_px": 140,
+      "rotated_length_px": 149.7658,
+      "rotated_width_px": 76.6619,
+      "rotated_angle_deg": 57.4259,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 3.5488,
+      "axis_aligned_width_m": 2.26,
+      "axis_aligned_height_m": 2.8,
+      "rotated_length_m": 2.9953,
+      "rotated_width_m": 1.5332
+    }
+  },
+  {
+    "image_id": "00055",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00055.png",
+    "state": {
+      "x": -5.0,
+      "y": -10.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.308416,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.308416,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        423.0,
+        296.0,
+        512.0,
+        388.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 7975,
+      "mask_bounds_px": {
+        "x_min": 532,
+        "x_max": 639,
+        "y_min": 372,
+        "y_max": 487
+      },
+      "axis_aligned_width_px": 108,
+      "axis_aligned_height_px": 116,
+      "rotated_length_px": 142.7417,
+      "rotated_width_px": 79.328,
+      "rotated_angle_deg": 39.6569,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 3.19,
+      "axis_aligned_width_m": 2.16,
+      "axis_aligned_height_m": 2.32,
+      "rotated_length_m": 2.8548,
+      "rotated_width_m": 1.5866
+    }
+  },
+  {
+    "image_id": "00056",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00056.png",
+    "state": {
+      "x": -5.0,
+      "y": -5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00057",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00057.png",
+    "state": {
+      "x": -5.0,
+      "y": -5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.485712,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.485712,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        379.0,
+        232.0,
+        511.0,
+        376.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 13636,
+      "mask_bounds_px": {
+        "x_min": 476,
+        "x_max": 639,
+        "y_min": 292,
+        "y_max": 470
+      },
+      "axis_aligned_width_px": 164,
+      "axis_aligned_height_px": 179,
+      "rotated_length_px": 178.0,
+      "rotated_width_px": 163.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 5.4544,
+      "axis_aligned_width_m": 3.28,
+      "axis_aligned_height_m": 3.58,
+      "rotated_length_m": 3.56,
+      "rotated_width_m": 3.26
+    }
+  },
+  {
+    "image_id": "00058",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00058.png",
+    "state": {
+      "x": -5.0,
+      "y": 5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.631182,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.631182,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        273.0,
+        169.0,
+        339.0,
+        226.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 3201,
+      "mask_bounds_px": {
+        "x_min": 344,
+        "x_max": 423,
+        "y_min": 212,
+        "y_max": 282
+      },
+      "axis_aligned_width_px": 80,
+      "axis_aligned_height_px": 71,
+      "rotated_length_px": 92.7512,
+      "rotated_width_px": 41.6011,
+      "rotated_angle_deg": 51.009,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.2804,
+      "axis_aligned_width_m": 1.6,
+      "axis_aligned_height_m": 1.42,
+      "rotated_length_m": 1.855,
+      "rotated_width_m": 0.832
+    }
+  },
+  {
+    "image_id": "00059",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00059.png",
+    "state": {
+      "x": -5.0,
+      "y": 5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.337043,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.337043,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        308.0,
+        441.0,
+        512.0,
+        510.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 16689,
+      "mask_bounds_px": {
+        "x_min": 388,
+        "x_max": 639,
+        "y_min": 552,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 252,
+      "axis_aligned_height_px": 88,
+      "rotated_length_px": 251.0,
+      "rotated_width_px": 87.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 6.6756,
+      "axis_aligned_width_m": 5.04,
+      "axis_aligned_height_m": 1.76,
+      "rotated_length_m": 5.02,
+      "rotated_width_m": 1.74
+    }
+  },
+  {
+    "image_id": "00060",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00060.png",
+    "state": {
+      "x": -5.0,
+      "y": -10.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.267806,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.267806,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        11.0,
+        126.0,
+        275.0,
+        430.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 39413,
+      "mask_bounds_px": {
+        "x_min": 16,
+        "x_max": 347,
+        "y_min": 160,
+        "y_max": 539
+      },
+      "axis_aligned_width_px": 332,
+      "axis_aligned_height_px": 380,
+      "rotated_length_px": 409.0214,
+      "rotated_width_px": 138.0632,
+      "rotated_angle_deg": 50.407,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 15.7652,
+      "axis_aligned_width_m": 6.64,
+      "axis_aligned_height_m": 7.6,
+      "rotated_length_m": 8.1804,
+      "rotated_width_m": 2.7613
+    }
+  },
+  {
+    "image_id": "00061",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00061.png",
+    "state": {
+      "x": 0.0,
+      "y": -10.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.284593,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.284593,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        356.0,
+        285.0,
+        510.0,
+        476.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 30548,
+      "mask_bounds_px": {
+        "x_min": 448,
+        "x_max": 639,
+        "y_min": 356,
+        "y_max": 584
+      },
+      "axis_aligned_width_px": 192,
+      "axis_aligned_height_px": 229,
+      "rotated_length_px": 228.0,
+      "rotated_width_px": 191.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 12.2192,
+      "axis_aligned_width_m": 3.84,
+      "axis_aligned_height_m": 4.58,
+      "rotated_length_m": 4.56,
+      "rotated_width_m": 3.82
+    }
+  },
+  {
+    "image_id": "00062",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00062.png",
+    "state": {
+      "x": 0.0,
+      "y": -10.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00063",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00063.png",
+    "state": {
+      "x": 10.0,
+      "y": -10.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.323567,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.323567,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        348.0,
+        158.0,
+        510.0,
+        432.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 53043,
+      "mask_bounds_px": {
+        "x_min": 437,
+        "x_max": 639,
+        "y_min": 200,
+        "y_max": 539
+      },
+      "axis_aligned_width_px": 203,
+      "axis_aligned_height_px": 340,
+      "rotated_length_px": 339.0,
+      "rotated_width_px": 202.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 21.2172,
+      "axis_aligned_width_m": 4.06,
+      "axis_aligned_height_m": 6.8,
+      "rotated_length_m": 6.78,
+      "rotated_width_m": 4.04
+    }
+  },
+  {
+    "image_id": "00064",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00064.png",
+    "state": {
+      "x": 10.0,
+      "y": -5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00065",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00065.png",
+    "state": {
+      "x": 10.0,
+      "y": -5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00066",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00066.png",
+    "state": {
+      "x": 10.0,
+      "y": 5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.589406,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.589406,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        89.0,
+        169.0,
+        128.0,
+        225.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 2147,
+      "mask_bounds_px": {
+        "x_min": 112,
+        "x_max": 157,
+        "y_min": 212,
+        "y_max": 280
+      },
+      "axis_aligned_width_px": 46,
+      "axis_aligned_height_px": 69,
+      "rotated_length_px": 69.3989,
+      "rotated_width_px": 37.5625,
+      "rotated_angle_deg": 23.6294,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.8588,
+      "axis_aligned_width_m": 0.92,
+      "axis_aligned_height_m": 1.38,
+      "rotated_length_m": 1.388,
+      "rotated_width_m": 0.7512
+    }
+  },
+  {
+    "image_id": "00067",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00067.png",
+    "state": {
+      "x": 10.0,
+      "y": 5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.49177,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.49177,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        0.0,
+        0.0,
+        43.0,
+        49.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 2481,
+      "mask_bounds_px": {
+        "x_min": 0,
+        "x_max": 52,
+        "y_min": 0,
+        "y_max": 57
+      },
+      "axis_aligned_width_px": 53,
+      "axis_aligned_height_px": 58,
+      "rotated_length_px": 57.0,
+      "rotated_width_px": 52.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.9924,
+      "axis_aligned_width_m": 1.06,
+      "axis_aligned_height_m": 1.16,
+      "rotated_length_m": 1.14,
+      "rotated_width_m": 1.04
+    }
+  },
+  {
+    "image_id": "00068",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00068.png",
+    "state": {
+      "x": 10.0,
+      "y": -10.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.661683,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.661683,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        0.0,
+        334.0,
+        197.0,
+        512.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 15097,
+      "mask_bounds_px": {
+        "x_min": 0,
+        "x_max": 238,
+        "y_min": 427,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 239,
+      "axis_aligned_height_px": 213,
+      "rotated_length_px": 312.7545,
+      "rotated_width_px": 88.8573,
+      "rotated_angle_deg": 35.2176,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 6.0388,
+      "axis_aligned_width_m": 4.78,
+      "axis_aligned_height_m": 4.26,
+      "rotated_length_m": 6.2551,
+      "rotated_width_m": 1.7771
+    }
+  },
+  {
+    "image_id": "00069",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00069.png",
+    "state": {
+      "x": 5.0,
+      "y": -10.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.513339,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.513339,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        404.0,
+        175.0,
+        512.0,
+        316.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 18846,
+      "mask_bounds_px": {
+        "x_min": 509,
+        "x_max": 639,
+        "y_min": 220,
+        "y_max": 395
+      },
+      "axis_aligned_width_px": 131,
+      "axis_aligned_height_px": 176,
+      "rotated_length_px": 175.0,
+      "rotated_width_px": 130.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 7.5384,
+      "axis_aligned_width_m": 2.62,
+      "axis_aligned_height_m": 3.52,
+      "rotated_length_m": 3.5,
+      "rotated_width_m": 2.6
+    }
+  },
+  {
+    "image_id": "00070",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00070.png",
+    "state": {
+      "x": 5.0,
+      "y": -10.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.80498,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.80498,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        1.0,
+        183.0,
+        96.0,
+        325.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 15211,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 114,
+        "y_min": 232,
+        "y_max": 407
+      },
+      "axis_aligned_width_px": 111,
+      "axis_aligned_height_px": 176,
+      "rotated_length_px": 175.0,
+      "rotated_width_px": 110.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 6.0844,
+      "axis_aligned_width_m": 2.22,
+      "axis_aligned_height_m": 3.52,
+      "rotated_length_m": 3.5,
+      "rotated_width_m": 2.2
+    }
+  },
+  {
+    "image_id": "00071",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00071.png",
+    "state": {
+      "x": -15.0,
+      "y": -5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.762971,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.762971,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        447.0,
+        480.0,
+        507.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 1762,
+      "mask_bounds_px": {
+        "x_min": 560,
+        "x_max": 633,
+        "y_min": 600,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 74,
+      "axis_aligned_height_px": 40,
+      "rotated_length_px": 73.0,
+      "rotated_width_px": 39.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.7048,
+      "axis_aligned_width_m": 1.48,
+      "axis_aligned_height_m": 0.8,
+      "rotated_length_m": 1.46,
+      "rotated_width_m": 0.78
+    }
+  },
+  {
+    "image_id": "00072",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00072.png",
+    "state": {
+      "x": -15.0,
+      "y": 5.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.776383,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.776383,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        384.0,
+        363.0,
+        511.0,
+        471.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 6727,
+      "mask_bounds_px": {
+        "x_min": 481,
+        "x_max": 639,
+        "y_min": 456,
+        "y_max": 573
+      },
+      "axis_aligned_width_px": 159,
+      "axis_aligned_height_px": 118,
+      "rotated_length_px": 190.2622,
+      "rotated_width_px": 45.7628,
+      "rotated_angle_deg": 33.6901,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 2.6908,
+      "axis_aligned_width_m": 3.18,
+      "axis_aligned_height_m": 2.36,
+      "rotated_length_m": 3.8052,
+      "rotated_width_m": 0.9153
+    }
+  },
+  {
+    "image_id": "00073",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00073.png",
+    "state": {
+      "x": -15.0,
+      "y": 0.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.812791,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.812791,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        103.0,
+        406.0,
+        221.0,
+        512.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 9997,
+      "mask_bounds_px": {
+        "x_min": 132,
+        "x_max": 277,
+        "y_min": 508,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 146,
+      "axis_aligned_height_px": 132,
+      "rotated_length_px": 168.3243,
+      "rotated_width_px": 73.2398,
+      "rotated_angle_deg": 49.1849,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 3.9988,
+      "axis_aligned_width_m": 2.92,
+      "axis_aligned_height_m": 2.64,
+      "rotated_length_m": 3.3665,
+      "rotated_width_m": 1.4648
+    }
+  },
+  {
+    "image_id": "00074",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00074.png",
+    "state": {
+      "x": -15.0,
+      "y": 5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.507515,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.507515,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        0.0,
+        114.0,
+        41.0,
+        165.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 2039,
+      "mask_bounds_px": {
+        "x_min": 0,
+        "x_max": 51,
+        "y_min": 144,
+        "y_max": 206
+      },
+      "axis_aligned_width_px": 52,
+      "axis_aligned_height_px": 63,
+      "rotated_length_px": 67.2738,
+      "rotated_width_px": 42.132,
+      "rotated_angle_deg": 35.3948,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.8156,
+      "axis_aligned_width_m": 1.04,
+      "axis_aligned_height_m": 1.26,
+      "rotated_length_m": 1.3455,
+      "rotated_width_m": 0.8426
+    }
+  },
+  {
+    "image_id": "00075",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00075.png",
+    "state": {
+      "x": -15.0,
+      "y": -5.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.436065,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.436065,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        396.0,
+        61.0,
+        439.0,
+        101.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 1236,
+      "mask_bounds_px": {
+        "x_min": 496,
+        "x_max": 548,
+        "y_min": 80,
+        "y_max": 127
+      },
+      "axis_aligned_width_px": 53,
+      "axis_aligned_height_px": 48,
+      "rotated_length_px": 62.7609,
+      "rotated_width_px": 23.64,
+      "rotated_angle_deg": 51.5819,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.4944,
+      "axis_aligned_width_m": 1.06,
+      "axis_aligned_height_m": 0.96,
+      "rotated_length_m": 1.2552,
+      "rotated_width_m": 0.4728
+    }
+  },
+  {
+    "image_id": "00076",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00076.png",
+    "state": {
+      "x": -10.0,
+      "y": -10.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.571139,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.571139,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        0.0,
+        482.0,
+        42.0,
+        511.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 1471,
+      "mask_bounds_px": {
+        "x_min": 0,
+        "x_max": 55,
+        "y_min": 604,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 56,
+      "axis_aligned_height_px": 36,
+      "rotated_length_px": 55.0,
+      "rotated_width_px": 35.0,
+      "rotated_angle_deg": -0.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 0.5884,
+      "axis_aligned_width_m": 1.12,
+      "axis_aligned_height_m": 0.72,
+      "rotated_length_m": 1.1,
+      "rotated_width_m": 0.7
+    }
+  },
+  {
+    "image_id": "00077",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00077.png",
+    "state": {
+      "x": -10.0,
+      "y": -5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00078",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00078.png",
+    "state": {
+      "x": -10.0,
+      "y": -5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.548413,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.548413,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        430.0,
+        270.0,
+        512.0,
+        351.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 5956,
+      "mask_bounds_px": {
+        "x_min": 540,
+        "x_max": 639,
+        "y_min": 340,
+        "y_max": 438
+      },
+      "axis_aligned_width_px": 100,
+      "axis_aligned_height_px": 99,
+      "rotated_length_px": 135.1232,
+      "rotated_width_px": 62.1431,
+      "rotated_angle_deg": 57.8477,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 2.3824,
+      "axis_aligned_width_m": 2.0,
+      "axis_aligned_height_m": 1.98,
+      "rotated_length_m": 2.7025,
+      "rotated_width_m": 1.2429
+    }
+  },
+  {
+    "image_id": "00079",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00079.png",
+    "state": {
+      "x": -10.0,
+      "y": 5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.797331,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.797331,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        211.0,
+        346.0,
+        304.0,
+        445.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 7969,
+      "mask_bounds_px": {
+        "x_min": 264,
+        "x_max": 378,
+        "y_min": 436,
+        "y_max": 558
+      },
+      "axis_aligned_width_px": 115,
+      "axis_aligned_height_px": 123,
+      "rotated_length_px": 142.1285,
+      "rotated_width_px": 64.3467,
+      "rotated_angle_deg": 45.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 3.1876,
+      "axis_aligned_width_m": 2.3,
+      "axis_aligned_height_m": 2.46,
+      "rotated_length_m": 2.8426,
+      "rotated_width_m": 1.2869
+    }
+  },
+  {
+    "image_id": "00080",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00080.png",
+    "state": {
+      "x": -10.0,
+      "y": 5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.860704,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.860704,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        233.0,
+        53.0,
+        327.0,
+        162.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 8463,
+      "mask_bounds_px": {
+        "x_min": 292,
+        "x_max": 410,
+        "y_min": 69,
+        "y_max": 203
+      },
+      "axis_aligned_width_px": 119,
+      "axis_aligned_height_px": 135,
+      "rotated_length_px": 139.1261,
+      "rotated_width_px": 66.1084,
+      "rotated_angle_deg": 47.1211,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 3.3852,
+      "axis_aligned_width_m": 2.38,
+      "axis_aligned_height_m": 2.7,
+      "rotated_length_m": 2.7825,
+      "rotated_width_m": 1.3222
+    }
+  },
+  {
+    "image_id": "00081",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00081.png",
+    "state": {
+      "x": -10.0,
+      "y": -10.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.898726,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.898726,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        212.0,
+        3.0,
+        370.0,
+        132.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4445,
+      "mask_bounds_px": {
+        "x_min": 268,
+        "x_max": 463,
+        "y_min": 4,
+        "y_max": 158
+      },
+      "axis_aligned_width_px": 196,
+      "axis_aligned_height_px": 155,
+      "rotated_length_px": 210.1082,
+      "rotated_width_px": 37.308,
+      "rotated_angle_deg": 44.2927,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.778,
+      "axis_aligned_width_m": 3.92,
+      "axis_aligned_height_m": 3.1,
+      "rotated_length_m": 4.2022,
+      "rotated_width_m": 0.7462
+    }
+  },
+  {
+    "image_id": "00082",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00082.png",
+    "state": {
+      "x": -5.0,
+      "y": -10.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.274425,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.274425,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        81.0,
+        369.0,
+        321.0,
+        512.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 30584,
+      "mask_bounds_px": {
+        "x_min": 104,
+        "x_max": 402,
+        "y_min": 464,
+        "y_max": 639
+      },
+      "axis_aligned_width_px": 299,
+      "axis_aligned_height_px": 176,
+      "rotated_length_px": 295.0,
+      "rotated_width_px": 175.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 12.2336,
+      "axis_aligned_width_m": 5.98,
+      "axis_aligned_height_m": 3.52,
+      "rotated_length_m": 5.9,
+      "rotated_width_m": 3.5
+    }
+  },
+  {
+    "image_id": "00083",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00083.png",
+    "state": {
+      "x": -5.0,
+      "y": -10.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00084",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00084.png",
+    "state": {
+      "x": 10.0,
+      "y": -10.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.468104,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.468104,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        431.0,
+        88.0,
+        512.0,
+        193.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 9563,
+      "mask_bounds_px": {
+        "x_min": 542,
+        "x_max": 639,
+        "y_min": 112,
+        "y_max": 240
+      },
+      "axis_aligned_width_px": 98,
+      "axis_aligned_height_px": 129,
+      "rotated_length_px": 128.0,
+      "rotated_width_px": 97.0,
+      "rotated_angle_deg": 90.0,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 3.8252,
+      "axis_aligned_width_m": 1.96,
+      "axis_aligned_height_m": 2.58,
+      "rotated_length_m": 2.56,
+      "rotated_width_m": 1.94
+    }
+  },
+  {
+    "image_id": "00085",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00085.png",
+    "state": {
+      "x": 10.0,
+      "y": -10.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.641004,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.641004,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        0.0,
+        307.0,
+        66.0,
+        397.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 6213,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 78,
+        "y_min": 388,
+        "y_max": 495
+      },
+      "axis_aligned_width_px": 75,
+      "axis_aligned_height_px": 108,
+      "rotated_length_px": 107.4658,
+      "rotated_width_px": 73.658,
+      "rotated_angle_deg": 2.8624,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 2.4852,
+      "axis_aligned_width_m": 1.5,
+      "axis_aligned_height_m": 2.16,
+      "rotated_length_m": 2.1493,
+      "rotated_width_m": 1.4732
+    }
+  },
+  {
+    "image_id": "00086",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00086.png",
+    "state": {
+      "x": -15.0,
+      "y": -10.0,
+      "yaw_deg": 270
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.627155,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.627155,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        160.0,
+        354.0,
+        220.0,
+        423.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 3739,
+      "mask_bounds_px": {
+        "x_min": 204,
+        "x_max": 275,
+        "y_min": 444,
+        "y_max": 527
+      },
+      "axis_aligned_width_px": 72,
+      "axis_aligned_height_px": 84,
+      "rotated_length_px": 88.5037,
+      "rotated_width_px": 50.4238,
+      "rotated_angle_deg": 56.5922,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.4956,
+      "axis_aligned_width_m": 1.44,
+      "axis_aligned_height_m": 1.68,
+      "rotated_length_m": 1.7701,
+      "rotated_width_m": 1.0085
+    }
+  },
+  {
+    "image_id": "00087",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00087.png",
+    "state": {
+      "x": -15.0,
+      "y": -5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.691999,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.691999,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        1.0,
+        256.0,
+        101.0,
+        343.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 8027,
+      "mask_bounds_px": {
+        "x_min": 4,
+        "x_max": 127,
+        "y_min": 320,
+        "y_max": 425
+      },
+      "axis_aligned_width_px": 124,
+      "axis_aligned_height_px": 106,
+      "rotated_length_px": 149.3043,
+      "rotated_width_px": 73.4642,
+      "rotated_angle_deg": 57.0613,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 3.2108,
+      "axis_aligned_width_m": 2.48,
+      "axis_aligned_height_m": 2.12,
+      "rotated_length_m": 2.9861,
+      "rotated_width_m": 1.4693
+    }
+  },
+  {
+    "image_id": "00088",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00088.png",
+    "state": {
+      "x": -15.0,
+      "y": -5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.576844,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.576844,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        404.0,
+        198.0,
+        507.0,
+        274.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 7298,
+      "mask_bounds_px": {
+        "x_min": 508,
+        "x_max": 633,
+        "y_min": 248,
+        "y_max": 343
+      },
+      "axis_aligned_width_px": 126,
+      "axis_aligned_height_px": 96,
+      "rotated_length_px": 139.8079,
+      "rotated_width_px": 69.1144,
+      "rotated_angle_deg": 58.2405,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 2.9192,
+      "axis_aligned_width_m": 2.52,
+      "axis_aligned_height_m": 1.92,
+      "rotated_length_m": 2.7962,
+      "rotated_width_m": 1.3823
+    }
+  },
+  {
+    "image_id": "00089",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00089.png",
+    "state": {
+      "x": -15.0,
+      "y": 5.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.795618,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.795618,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        194.0,
+        388.0,
+        262.0,
+        459.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4194,
+      "mask_bounds_px": {
+        "x_min": 244,
+        "x_max": 327,
+        "y_min": 488,
+        "y_max": 575
+      },
+      "axis_aligned_width_px": 84,
+      "axis_aligned_height_px": 88,
+      "rotated_length_px": 106.9506,
+      "rotated_width_px": 45.9924,
+      "rotated_angle_deg": 40.7321,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.6776,
+      "axis_aligned_width_m": 1.68,
+      "axis_aligned_height_m": 1.76,
+      "rotated_length_m": 2.139,
+      "rotated_width_m": 0.9198
+    }
+  },
+  {
+    "image_id": "00090",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00090.png",
+    "state": {
+      "x": -15.0,
+      "y": 5.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.769388,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.769388,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        279.0,
+        53.0,
+        343.0,
+        127.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4071,
+      "mask_bounds_px": {
+        "x_min": 352,
+        "x_max": 431,
+        "y_min": 68,
+        "y_max": 157
+      },
+      "axis_aligned_width_px": 80,
+      "axis_aligned_height_px": 90,
+      "rotated_length_px": 103.937,
+      "rotated_width_px": 44.7382,
+      "rotated_angle_deg": 41.2847,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.6284,
+      "axis_aligned_width_m": 1.6,
+      "axis_aligned_height_m": 1.8,
+      "rotated_length_m": 2.0787,
+      "rotated_width_m": 0.8948
+    }
+  },
+  {
+    "image_id": "00091",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00091.png",
+    "state": {
+      "x": -15.0,
+      "y": -10.0,
+      "yaw_deg": 90
+    },
+    "mode": "yolo",
+    "detected_pothole": true,
+    "confidence": 0.575152,
+    "ground_truth_has_pothole": false,
+    "detection": {
+      "confidence": 0.575152,
+      "class_id": 0,
+      "measurement_source": "segmentation_mask",
+      "bbox_xyxy": [
+        117.0,
+        2.0,
+        297.0,
+        138.0
+      ]
+    },
+    "measurement": {
+      "mask_area_px": 4083,
+      "mask_bounds_px": {
+        "x_min": 151,
+        "x_max": 371,
+        "y_min": 4,
+        "y_max": 162
+      },
+      "axis_aligned_width_px": 221,
+      "axis_aligned_height_px": 159,
+      "rotated_length_px": 87.0497,
+      "rotated_width_px": 58.7997,
+      "rotated_angle_deg": 6.7536,
+      "pixel_scale_m_per_px": 0.02,
+      "mask_area_m2": 1.6332,
+      "axis_aligned_width_m": 4.42,
+      "axis_aligned_height_m": 3.18,
+      "rotated_length_m": 1.741,
+      "rotated_width_m": 1.176
+    }
+  },
+  {
+    "image_id": "00092",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00092.png",
+    "state": {
+      "x": -10.0,
+      "y": -10.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00093",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00093.png",
+    "state": {
+      "x": -10.0,
+      "y": -10.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00094",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00094.png",
+    "state": {
+      "x": -15.0,
+      "y": -10.0,
+      "yaw_deg": 180
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  },
+  {
+    "image_id": "00095",
+    "image_path": "/home/patel/Desktop/Lab codes/keremberke/dataset/images/00095.png",
+    "state": {
+      "x": -15.0,
+      "y": -10.0,
+      "yaw_deg": 0
+    },
+    "mode": "yolo",
+    "detected_pothole": false,
+    "confidence": 0.0,
+    "ground_truth_has_pothole": false,
+    "detection": null,
+    "measurement": null
+  }
+]

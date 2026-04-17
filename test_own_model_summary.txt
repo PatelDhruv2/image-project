@@ -1,0 +1,15 @@
+Pothole Detection Pipeline Summary
+Total images scanned: 96
+Detected pothole images: 3
+Ground-truth pothole images in metadata: 1
+
+Detected pothole entries:
+- image_id=00027 confidence=0.9514 size_m=4.39 x 3.46 area_m2=15.6589
+- image_id=00028 confidence=0.9611 size_m=4.78 x 3.55 area_m2=16.9320
+- image_id=00068 confidence=0.5566 size_m=3.87 x 1.47 area_m2=5.9820
+
+Comparison against dataset labels:
+- TP=2
+- FP=1
+- FN=0
+- TN=93

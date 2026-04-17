@@ -1,0 +1,12 @@
+Pothole Detection Pipeline Summary
+Total images scanned: 2
+Detected pothole images: 0
+Ground-truth pothole images in metadata: 0
+
+No potholes were detected.
+
+Comparison against dataset labels:
+- TP=0
+- FP=0
+- FN=0
+- TN=2

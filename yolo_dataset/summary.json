@@ -1,0 +1,5121 @@
+{
+    "total_images": 300,
+    "train": {
+        "total": 247,
+        "pothole": 102,
+        "clean": 145
+    },
+    "val": {
+        "total": 53,
+        "pothole": 18,
+        "clean": 35
+    },
+    "class_names": [
+        "pothole"
+    ],
+    "image_size": "512x512",
+    "altitude_m": 15,
+    "pixel_scale_m_per_px": 0.02,
+    "records": [
+        {
+            "index": 0,
+            "image_id": "00000",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -15.0,
+                "y": 0.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00000.png",
+            "label_path": "yolo_dataset\\labels\\train\\00000.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00000_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 1,
+            "image_id": "00001",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -5.0,
+                "y": 10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00001.png",
+            "label_path": "yolo_dataset\\labels\\train\\00001.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00001_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 2,
+            "image_id": "00002",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 15.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00002.png",
+            "label_path": "yolo_dataset\\labels\\val\\00002.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00002_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 3,
+            "image_id": "00003",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 45.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00003.png",
+            "label_path": "yolo_dataset\\labels\\train\\00003.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00003_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 4,
+            "image_id": "00004",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -60.0,
+                "y": -5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00004.png",
+            "label_path": "yolo_dataset\\labels\\train\\00004.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00004_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 5,
+            "image_id": "00005",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -25.0,
+                "y": 5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00005.png",
+            "label_path": "yolo_dataset\\labels\\train\\00005.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00005_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 6,
+            "image_id": "00006",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 50.0,
+                "y": 15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00006.png",
+            "label_path": "yolo_dataset\\labels\\train\\00006.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00006_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 7,
+            "image_id": "00007",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -25.0,
+                "y": -20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00007.png",
+            "label_path": "yolo_dataset\\labels\\train\\00007.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00007_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 8,
+            "image_id": "00008",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -25.0,
+                "y": 20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00008.png",
+            "label_path": "yolo_dataset\\labels\\val\\00008.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00008_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 9,
+            "image_id": "00009",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -10.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00009.png",
+            "label_path": "yolo_dataset\\labels\\train\\00009.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00009_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 10,
+            "image_id": "00010",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 25.0,
+                "y": 5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00010.png",
+            "label_path": "yolo_dataset\\labels\\train\\00010.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00010_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 11,
+            "image_id": "00011",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 55.0,
+                "y": -15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00011.png",
+            "label_path": "yolo_dataset\\labels\\train\\00011.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00011_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 12,
+            "image_id": "00012",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 55.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00012.png",
+            "label_path": "yolo_dataset\\labels\\train\\00012.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00012_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 13,
+            "image_id": "00013",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -5.0,
+                "y": -10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00013.png",
+            "label_path": "yolo_dataset\\labels\\train\\00013.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00013_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 14,
+            "image_id": "00014",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 15.0,
+                "y": 20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00014.png",
+            "label_path": "yolo_dataset\\labels\\train\\00014.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00014_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 15,
+            "image_id": "00015",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -50.0,
+                "y": 10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00015.png",
+            "label_path": "yolo_dataset\\labels\\train\\00015.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00015_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 16,
+            "image_id": "00016",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 45.0,
+                "y": -10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00016.png",
+            "label_path": "yolo_dataset\\labels\\val\\00016.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00016_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 17,
+            "image_id": "00017",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 60.0,
+                "y": -15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00017.png",
+            "label_path": "yolo_dataset\\labels\\val\\00017.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00017_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 18,
+            "image_id": "00018",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -15.0,
+                "y": -20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00018.png",
+            "label_path": "yolo_dataset\\labels\\train\\00018.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00018_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 19,
+            "image_id": "00019",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 55.0,
+                "y": 20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00019.png",
+            "label_path": "yolo_dataset\\labels\\train\\00019.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00019_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 20,
+            "image_id": "00020",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -30.0,
+                "y": -15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00020.png",
+            "label_path": "yolo_dataset\\labels\\train\\00020.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00020_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 21,
+            "image_id": "00021",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -60.0,
+                "y": -15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00021.png",
+            "label_path": "yolo_dataset\\labels\\val\\00021.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00021_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 22,
+            "image_id": "00022",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -5.0,
+                "y": -10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00022.png",
+            "label_path": "yolo_dataset\\labels\\train\\00022.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00022_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 23,
+            "image_id": "00023",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 40.0,
+                "y": 0.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00023.png",
+            "label_path": "yolo_dataset\\labels\\train\\00023.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00023_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 24,
+            "image_id": "00024",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -20.0,
+                "y": -20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00024.png",
+            "label_path": "yolo_dataset\\labels\\train\\00024.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00024_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 25,
+            "image_id": "00025",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 10.0,
+                "y": 15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00025.png",
+            "label_path": "yolo_dataset\\labels\\train\\00025.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00025_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 26,
+            "image_id": "00026",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -50.0,
+                "y": -20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00026.png",
+            "label_path": "yolo_dataset\\labels\\train\\00026.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00026_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 27,
+            "image_id": "00027",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -35.0,
+                "y": 0.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\val\\00027.png",
+            "label_path": "yolo_dataset\\labels\\val\\00027.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00027_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 28,
+            "image_id": "00028",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -10.0,
+                "y": 0.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00028.png",
+            "label_path": "yolo_dataset\\labels\\val\\00028.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00028_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 29,
+            "image_id": "00029",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 10.0,
+                "y": 10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00029.png",
+            "label_path": "yolo_dataset\\labels\\train\\00029.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00029_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 30,
+            "image_id": "00030",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 35.0,
+                "y": -5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\val\\00030.png",
+            "label_path": "yolo_dataset\\labels\\val\\00030.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00030_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 31,
+            "image_id": "00031",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -60.0,
+                "y": 0.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00031.png",
+            "label_path": "yolo_dataset\\labels\\train\\00031.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00031_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 32,
+            "image_id": "00032",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 20.0,
+                "y": 20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00032.png",
+            "label_path": "yolo_dataset\\labels\\train\\00032.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00032_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 33,
+            "image_id": "00033",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 45.0,
+                "y": 10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00033.png",
+            "label_path": "yolo_dataset\\labels\\train\\00033.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00033_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 34,
+            "image_id": "00034",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 25.0,
+                "y": -5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00034.png",
+            "label_path": "yolo_dataset\\labels\\train\\00034.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00034_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 35,
+            "image_id": "00035",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 50.0,
+                "y": -15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00035.png",
+            "label_path": "yolo_dataset\\labels\\train\\00035.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00035_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 36,
+            "image_id": "00036",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 50.0,
+                "y": 15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00036.png",
+            "label_path": "yolo_dataset\\labels\\train\\00036.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00036_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 37,
+            "image_id": "00037",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -15.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00037.png",
+            "label_path": "yolo_dataset\\labels\\train\\00037.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00037_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 38,
+            "image_id": "00038",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -5.0,
+                "y": 5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00038.png",
+            "label_path": "yolo_dataset\\labels\\train\\00038.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00038_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 39,
+            "image_id": "00039",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 0.0,
+                "y": 20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00039.png",
+            "label_path": "yolo_dataset\\labels\\train\\00039.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00039_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 40,
+            "image_id": "00040",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 45.0,
+                "y": 15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00040.png",
+            "label_path": "yolo_dataset\\labels\\train\\00040.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00040_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 41,
+            "image_id": "00041",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -60.0,
+                "y": 20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00041.png",
+            "label_path": "yolo_dataset\\labels\\train\\00041.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00041_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 42,
+            "image_id": "00042",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 20.0,
+                "y": -10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00042.png",
+            "label_path": "yolo_dataset\\labels\\train\\00042.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00042_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 43,
+            "image_id": "00043",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -30.0,
+                "y": -5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\val\\00043.png",
+            "label_path": "yolo_dataset\\labels\\val\\00043.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00043_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 44,
+            "image_id": "00044",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -55.0,
+                "y": 20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00044.png",
+            "label_path": "yolo_dataset\\labels\\train\\00044.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00044_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 45,
+            "image_id": "00045",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -55.0,
+                "y": -5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00045.png",
+            "label_path": "yolo_dataset\\labels\\train\\00045.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00045_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 46,
+            "image_id": "00046",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -45.0,
+                "y": 0.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00046.png",
+            "label_path": "yolo_dataset\\labels\\train\\00046.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00046_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 47,
+            "image_id": "00047",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -5.0,
+                "y": -10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00047.png",
+            "label_path": "yolo_dataset\\labels\\train\\00047.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00047_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 48,
+            "image_id": "00048",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 30.0,
+                "y": -20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00048.png",
+            "label_path": "yolo_dataset\\labels\\train\\00048.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00048_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 49,
+            "image_id": "00049",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 5.0,
+                "y": -5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00049.png",
+            "label_path": "yolo_dataset\\labels\\train\\00049.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00049_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 50,
+            "image_id": "00050",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 40.0,
+                "y": 10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00050.png",
+            "label_path": "yolo_dataset\\labels\\val\\00050.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00050_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 51,
+            "image_id": "00051",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -20.0,
+                "y": 10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00051.png",
+            "label_path": "yolo_dataset\\labels\\train\\00051.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00051_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 52,
+            "image_id": "00052",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 30.0,
+                "y": 0.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00052.png",
+            "label_path": "yolo_dataset\\labels\\train\\00052.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00052_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 53,
+            "image_id": "00053",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 55.0,
+                "y": 10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00053.png",
+            "label_path": "yolo_dataset\\labels\\train\\00053.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00053_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 54,
+            "image_id": "00054",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -20.0,
+                "y": 0.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00054.png",
+            "label_path": "yolo_dataset\\labels\\train\\00054.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00054_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 55,
+            "image_id": "00055",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -50.0,
+                "y": -5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00055.png",
+            "label_path": "yolo_dataset\\labels\\train\\00055.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00055_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 56,
+            "image_id": "00056",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 10.0,
+                "y": 20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00056.png",
+            "label_path": "yolo_dataset\\labels\\val\\00056.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00056_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 57,
+            "image_id": "00057",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -40.0,
+                "y": 15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00057.png",
+            "label_path": "yolo_dataset\\labels\\train\\00057.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00057_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 58,
+            "image_id": "00058",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 0.0,
+                "y": -15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00058.png",
+            "label_path": "yolo_dataset\\labels\\train\\00058.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00058_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 59,
+            "image_id": "00059",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -25.0,
+                "y": 5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00059.png",
+            "label_path": "yolo_dataset\\labels\\train\\00059.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00059_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 60,
+            "image_id": "00060",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -30.0,
+                "y": -5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00060.png",
+            "label_path": "yolo_dataset\\labels\\val\\00060.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00060_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 61,
+            "image_id": "00061",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 20.0,
+                "y": 5.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00061.png",
+            "label_path": "yolo_dataset\\labels\\train\\00061.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00061_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 62,
+            "image_id": "00062",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -40.0,
+                "y": 20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00062.png",
+            "label_path": "yolo_dataset\\labels\\train\\00062.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00062_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 63,
+            "image_id": "00063",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 35.0,
+                "y": -20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00063.png",
+            "label_path": "yolo_dataset\\labels\\train\\00063.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00063_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 64,
+            "image_id": "00064",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -15.0,
+                "y": -5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00064.png",
+            "label_path": "yolo_dataset\\labels\\train\\00064.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00064_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 65,
+            "image_id": "00065",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -5.0,
+                "y": 20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00065.png",
+            "label_path": "yolo_dataset\\labels\\train\\00065.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00065_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 66,
+            "image_id": "00066",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -60.0,
+                "y": 15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00066.png",
+            "label_path": "yolo_dataset\\labels\\train\\00066.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00066_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 67,
+            "image_id": "00067",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 60.0,
+                "y": 0.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00067.png",
+            "label_path": "yolo_dataset\\labels\\train\\00067.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00067_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 68,
+            "image_id": "00068",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 5.0,
+                "y": 20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00068.png",
+            "label_path": "yolo_dataset\\labels\\train\\00068.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00068_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 69,
+            "image_id": "00069",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 40.0,
+                "y": 5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00069.png",
+            "label_path": "yolo_dataset\\labels\\train\\00069.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00069_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 70,
+            "image_id": "00070",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 20.0,
+                "y": -5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00070.png",
+            "label_path": "yolo_dataset\\labels\\train\\00070.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00070_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 71,
+            "image_id": "00071",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -35.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00071.png",
+            "label_path": "yolo_dataset\\labels\\train\\00071.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00071_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 72,
+            "image_id": "00072",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -40.0,
+                "y": 10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00072.png",
+            "label_path": "yolo_dataset\\labels\\train\\00072.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00072_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 73,
+            "image_id": "00073",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -60.0,
+                "y": 20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00073.png",
+            "label_path": "yolo_dataset\\labels\\train\\00073.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00073_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 74,
+            "image_id": "00074",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -45.0,
+                "y": -15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00074.png",
+            "label_path": "yolo_dataset\\labels\\train\\00074.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00074_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 75,
+            "image_id": "00075",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 55.0,
+                "y": 10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00075.png",
+            "label_path": "yolo_dataset\\labels\\train\\00075.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00075_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 76,
+            "image_id": "00076",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -50.0,
+                "y": 5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00076.png",
+            "label_path": "yolo_dataset\\labels\\train\\00076.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00076_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 77,
+            "image_id": "00077",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 10.0,
+                "y": -10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00077.png",
+            "label_path": "yolo_dataset\\labels\\train\\00077.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00077_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 78,
+            "image_id": "00078",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -40.0,
+                "y": -15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00078.png",
+            "label_path": "yolo_dataset\\labels\\train\\00078.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00078_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 79,
+            "image_id": "00079",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -55.0,
+                "y": 10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00079.png",
+            "label_path": "yolo_dataset\\labels\\train\\00079.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00079_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 80,
+            "image_id": "00080",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 30.0,
+                "y": 0.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00080.png",
+            "label_path": "yolo_dataset\\labels\\train\\00080.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00080_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 81,
+            "image_id": "00081",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -50.0,
+                "y": 15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00081.png",
+            "label_path": "yolo_dataset\\labels\\val\\00081.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00081_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 82,
+            "image_id": "00082",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 40.0,
+                "y": 20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00082.png",
+            "label_path": "yolo_dataset\\labels\\train\\00082.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00082_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 83,
+            "image_id": "00083",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 15.0,
+                "y": -10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00083.png",
+            "label_path": "yolo_dataset\\labels\\train\\00083.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00083_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 84,
+            "image_id": "00084",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -35.0,
+                "y": -10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00084.png",
+            "label_path": "yolo_dataset\\labels\\train\\00084.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00084_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 85,
+            "image_id": "00085",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 60.0,
+                "y": 20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00085.png",
+            "label_path": "yolo_dataset\\labels\\train\\00085.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00085_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 86,
+            "image_id": "00086",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -60.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00086.png",
+            "label_path": "yolo_dataset\\labels\\train\\00086.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00086_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 87,
+            "image_id": "00087",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 10.0,
+                "y": -20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00087.png",
+            "label_path": "yolo_dataset\\labels\\val\\00087.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00087_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 88,
+            "image_id": "00088",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 50.0,
+                "y": 5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00088.png",
+            "label_path": "yolo_dataset\\labels\\train\\00088.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00088_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 89,
+            "image_id": "00089",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -35.0,
+                "y": 15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00089.png",
+            "label_path": "yolo_dataset\\labels\\train\\00089.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00089_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 90,
+            "image_id": "00090",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 60.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00090.png",
+            "label_path": "yolo_dataset\\labels\\train\\00090.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00090_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 91,
+            "image_id": "00091",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 25.0,
+                "y": 10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00091.png",
+            "label_path": "yolo_dataset\\labels\\train\\00091.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00091_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 92,
+            "image_id": "00092",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -30.0,
+                "y": 20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00092.png",
+            "label_path": "yolo_dataset\\labels\\train\\00092.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00092_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 93,
+            "image_id": "00093",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -60.0,
+                "y": -10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00093.png",
+            "label_path": "yolo_dataset\\labels\\val\\00093.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00093_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 94,
+            "image_id": "00094",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 25.0,
+                "y": -5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\val\\00094.png",
+            "label_path": "yolo_dataset\\labels\\val\\00094.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00094_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 95,
+            "image_id": "00095",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -30.0,
+                "y": -15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00095.png",
+            "label_path": "yolo_dataset\\labels\\train\\00095.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00095_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 96,
+            "image_id": "00096",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -5.0,
+                "y": 15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00096.png",
+            "label_path": "yolo_dataset\\labels\\train\\00096.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00096_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 97,
+            "image_id": "00097",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -10.0,
+                "y": -5.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00097.png",
+            "label_path": "yolo_dataset\\labels\\val\\00097.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00097_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 98,
+            "image_id": "00098",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -10.0,
+                "y": -15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00098.png",
+            "label_path": "yolo_dataset\\labels\\val\\00098.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00098_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 99,
+            "image_id": "00099",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -40.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00099.png",
+            "label_path": "yolo_dataset\\labels\\train\\00099.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00099_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 100,
+            "image_id": "00100",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 20.0,
+                "y": -20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00100.png",
+            "label_path": "yolo_dataset\\labels\\train\\00100.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00100_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 101,
+            "image_id": "00101",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 15.0,
+                "y": 15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00101.png",
+            "label_path": "yolo_dataset\\labels\\train\\00101.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00101_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 102,
+            "image_id": "00102",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 30.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00102.png",
+            "label_path": "yolo_dataset\\labels\\train\\00102.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00102_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 103,
+            "image_id": "00103",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 25.0,
+                "y": -10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00103.png",
+            "label_path": "yolo_dataset\\labels\\train\\00103.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00103_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 104,
+            "image_id": "00104",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 0.0,
+                "y": 15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00104.png",
+            "label_path": "yolo_dataset\\labels\\train\\00104.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00104_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 105,
+            "image_id": "00105",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 60.0,
+                "y": 15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00105.png",
+            "label_path": "yolo_dataset\\labels\\train\\00105.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00105_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 106,
+            "image_id": "00106",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -45.0,
+                "y": 20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00106.png",
+            "label_path": "yolo_dataset\\labels\\train\\00106.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00106_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 107,
+            "image_id": "00107",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 55.0,
+                "y": 15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00107.png",
+            "label_path": "yolo_dataset\\labels\\train\\00107.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00107_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 108,
+            "image_id": "00108",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -20.0,
+                "y": 15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00108.png",
+            "label_path": "yolo_dataset\\labels\\val\\00108.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00108_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 109,
+            "image_id": "00109",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 15.0,
+                "y": -20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00109.png",
+            "label_path": "yolo_dataset\\labels\\train\\00109.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00109_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 110,
+            "image_id": "00110",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 5.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00110.png",
+            "label_path": "yolo_dataset\\labels\\train\\00110.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00110_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 111,
+            "image_id": "00111",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -35.0,
+                "y": 15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\val\\00111.png",
+            "label_path": "yolo_dataset\\labels\\val\\00111.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00111_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 112,
+            "image_id": "00112",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 30.0,
+                "y": 20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00112.png",
+            "label_path": "yolo_dataset\\labels\\val\\00112.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00112_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 113,
+            "image_id": "00113",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 25.0,
+                "y": 20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00113.png",
+            "label_path": "yolo_dataset\\labels\\train\\00113.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00113_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 114,
+            "image_id": "00114",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 15.0,
+                "y": -15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00114.png",
+            "label_path": "yolo_dataset\\labels\\train\\00114.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00114_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 115,
+            "image_id": "00115",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 20.0,
+                "y": -5.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00115.png",
+            "label_path": "yolo_dataset\\labels\\train\\00115.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00115_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 116,
+            "image_id": "00116",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -55.0,
+                "y": -20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00116.png",
+            "label_path": "yolo_dataset\\labels\\val\\00116.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00116_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 117,
+            "image_id": "00117",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -60.0,
+                "y": 0.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00117.png",
+            "label_path": "yolo_dataset\\labels\\train\\00117.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00117_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 118,
+            "image_id": "00118",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 50.0,
+                "y": 10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00118.png",
+            "label_path": "yolo_dataset\\labels\\train\\00118.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00118_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 119,
+            "image_id": "00119",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 0.0,
+                "y": -10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00119.png",
+            "label_path": "yolo_dataset\\labels\\val\\00119.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00119_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 120,
+            "image_id": "00120",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 10.0,
+                "y": -5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00120.png",
+            "label_path": "yolo_dataset\\labels\\train\\00120.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00120_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 121,
+            "image_id": "00121",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -60.0,
+                "y": 5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00121.png",
+            "label_path": "yolo_dataset\\labels\\val\\00121.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00121_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 122,
+            "image_id": "00122",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 40.0,
+                "y": -15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00122.png",
+            "label_path": "yolo_dataset\\labels\\train\\00122.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00122_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 123,
+            "image_id": "00123",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 40.0,
+                "y": -10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00123.png",
+            "label_path": "yolo_dataset\\labels\\train\\00123.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00123_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 124,
+            "image_id": "00124",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 35.0,
+                "y": -20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00124.png",
+            "label_path": "yolo_dataset\\labels\\train\\00124.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00124_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 125,
+            "image_id": "00125",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 20.0,
+                "y": 5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00125.png",
+            "label_path": "yolo_dataset\\labels\\train\\00125.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00125_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 126,
+            "image_id": "00126",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 40.0,
+                "y": 10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00126.png",
+            "label_path": "yolo_dataset\\labels\\train\\00126.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00126_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 127,
+            "image_id": "00127",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 25.0,
+                "y": -15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00127.png",
+            "label_path": "yolo_dataset\\labels\\val\\00127.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00127_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 128,
+            "image_id": "00128",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 15.0,
+                "y": 20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00128.png",
+            "label_path": "yolo_dataset\\labels\\train\\00128.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00128_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 129,
+            "image_id": "00129",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 40.0,
+                "y": 0.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00129.png",
+            "label_path": "yolo_dataset\\labels\\train\\00129.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00129_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 130,
+            "image_id": "00130",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -20.0,
+                "y": 20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00130.png",
+            "label_path": "yolo_dataset\\labels\\val\\00130.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00130_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 131,
+            "image_id": "00131",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -25.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00131.png",
+            "label_path": "yolo_dataset\\labels\\train\\00131.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00131_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 132,
+            "image_id": "00132",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -30.0,
+                "y": -10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00132.png",
+            "label_path": "yolo_dataset\\labels\\train\\00132.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00132_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 133,
+            "image_id": "00133",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 50.0,
+                "y": 5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00133.png",
+            "label_path": "yolo_dataset\\labels\\val\\00133.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00133_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 134,
+            "image_id": "00134",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -55.0,
+                "y": 20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00134.png",
+            "label_path": "yolo_dataset\\labels\\train\\00134.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00134_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 135,
+            "image_id": "00135",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -10.0,
+                "y": 20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00135.png",
+            "label_path": "yolo_dataset\\labels\\train\\00135.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00135_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 136,
+            "image_id": "00136",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 35.0,
+                "y": -5.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00136.png",
+            "label_path": "yolo_dataset\\labels\\train\\00136.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00136_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 137,
+            "image_id": "00137",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 10.0,
+                "y": -15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00137.png",
+            "label_path": "yolo_dataset\\labels\\train\\00137.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00137_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 138,
+            "image_id": "00138",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -20.0,
+                "y": 20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00138.png",
+            "label_path": "yolo_dataset\\labels\\train\\00138.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00138_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 139,
+            "image_id": "00139",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -45.0,
+                "y": -5.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00139.png",
+            "label_path": "yolo_dataset\\labels\\train\\00139.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00139_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 140,
+            "image_id": "00140",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -5.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00140.png",
+            "label_path": "yolo_dataset\\labels\\train\\00140.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00140_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 141,
+            "image_id": "00141",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 50.0,
+                "y": -15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00141.png",
+            "label_path": "yolo_dataset\\labels\\val\\00141.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00141_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 142,
+            "image_id": "00142",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 55.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00142.png",
+            "label_path": "yolo_dataset\\labels\\train\\00142.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00142_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 143,
+            "image_id": "00143",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -50.0,
+                "y": 10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00143.png",
+            "label_path": "yolo_dataset\\labels\\train\\00143.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00143_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 144,
+            "image_id": "00144",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 45.0,
+                "y": 0.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00144.png",
+            "label_path": "yolo_dataset\\labels\\train\\00144.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00144_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 145,
+            "image_id": "00145",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 15.0,
+                "y": 10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00145.png",
+            "label_path": "yolo_dataset\\labels\\val\\00145.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00145_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 146,
+            "image_id": "00146",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 35.0,
+                "y": 20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00146.png",
+            "label_path": "yolo_dataset\\labels\\train\\00146.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00146_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 147,
+            "image_id": "00147",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -15.0,
+                "y": -20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00147.png",
+            "label_path": "yolo_dataset\\labels\\train\\00147.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00147_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 148,
+            "image_id": "00148",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 0.0,
+                "y": 10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00148.png",
+            "label_path": "yolo_dataset\\labels\\train\\00148.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00148_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 149,
+            "image_id": "00149",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -35.0,
+                "y": -5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00149.png",
+            "label_path": "yolo_dataset\\labels\\val\\00149.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00149_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 150,
+            "image_id": "00150",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 10.0,
+                "y": 0.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00150.png",
+            "label_path": "yolo_dataset\\labels\\train\\00150.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00150_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 151,
+            "image_id": "00151",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -45.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00151.png",
+            "label_path": "yolo_dataset\\labels\\train\\00151.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00151_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 152,
+            "image_id": "00152",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 50.0,
+                "y": 15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00152.png",
+            "label_path": "yolo_dataset\\labels\\train\\00152.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00152_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 153,
+            "image_id": "00153",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 35.0,
+                "y": 20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00153.png",
+            "label_path": "yolo_dataset\\labels\\train\\00153.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00153_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 154,
+            "image_id": "00154",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -40.0,
+                "y": -15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00154.png",
+            "label_path": "yolo_dataset\\labels\\train\\00154.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00154_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 155,
+            "image_id": "00155",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 30.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00155.png",
+            "label_path": "yolo_dataset\\labels\\train\\00155.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00155_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 156,
+            "image_id": "00156",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -40.0,
+                "y": -20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00156.png",
+            "label_path": "yolo_dataset\\labels\\train\\00156.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00156_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 157,
+            "image_id": "00157",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -15.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00157.png",
+            "label_path": "yolo_dataset\\labels\\train\\00157.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00157_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 158,
+            "image_id": "00158",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -20.0,
+                "y": 15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00158.png",
+            "label_path": "yolo_dataset\\labels\\train\\00158.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00158_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 159,
+            "image_id": "00159",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -50.0,
+                "y": -10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00159.png",
+            "label_path": "yolo_dataset\\labels\\train\\00159.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00159_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 160,
+            "image_id": "00160",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -50.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00160.png",
+            "label_path": "yolo_dataset\\labels\\train\\00160.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00160_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 161,
+            "image_id": "00161",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 35.0,
+                "y": 15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00161.png",
+            "label_path": "yolo_dataset\\labels\\train\\00161.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00161_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 162,
+            "image_id": "00162",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -55.0,
+                "y": -15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00162.png",
+            "label_path": "yolo_dataset\\labels\\train\\00162.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00162_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 163,
+            "image_id": "00163",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 30.0,
+                "y": 5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00163.png",
+            "label_path": "yolo_dataset\\labels\\train\\00163.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00163_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 164,
+            "image_id": "00164",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 15.0,
+                "y": -10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00164.png",
+            "label_path": "yolo_dataset\\labels\\train\\00164.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00164_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 165,
+            "image_id": "00165",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 25.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00165.png",
+            "label_path": "yolo_dataset\\labels\\train\\00165.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00165_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 166,
+            "image_id": "00166",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 0.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00166.png",
+            "label_path": "yolo_dataset\\labels\\train\\00166.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00166_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 167,
+            "image_id": "00167",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -30.0,
+                "y": 10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00167.png",
+            "label_path": "yolo_dataset\\labels\\train\\00167.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00167_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 168,
+            "image_id": "00168",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -15.0,
+                "y": 20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00168.png",
+            "label_path": "yolo_dataset\\labels\\train\\00168.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00168_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 169,
+            "image_id": "00169",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 35.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00169.png",
+            "label_path": "yolo_dataset\\labels\\val\\00169.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00169_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 170,
+            "image_id": "00170",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 0.0,
+                "y": 0.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00170.png",
+            "label_path": "yolo_dataset\\labels\\train\\00170.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00170_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 171,
+            "image_id": "00171",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -50.0,
+                "y": -5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00171.png",
+            "label_path": "yolo_dataset\\labels\\val\\00171.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00171_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 172,
+            "image_id": "00172",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -30.0,
+                "y": -5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00172.png",
+            "label_path": "yolo_dataset\\labels\\val\\00172.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00172_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 173,
+            "image_id": "00173",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -50.0,
+                "y": -15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00173.png",
+            "label_path": "yolo_dataset\\labels\\train\\00173.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00173_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 174,
+            "image_id": "00174",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 0.0,
+                "y": 20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00174.png",
+            "label_path": "yolo_dataset\\labels\\train\\00174.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00174_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 175,
+            "image_id": "00175",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 45.0,
+                "y": 10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00175.png",
+            "label_path": "yolo_dataset\\labels\\train\\00175.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00175_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 176,
+            "image_id": "00176",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -45.0,
+                "y": -15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00176.png",
+            "label_path": "yolo_dataset\\labels\\train\\00176.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00176_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 177,
+            "image_id": "00177",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 35.0,
+                "y": 20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00177.png",
+            "label_path": "yolo_dataset\\labels\\train\\00177.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00177_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 178,
+            "image_id": "00178",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 25.0,
+                "y": -15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00178.png",
+            "label_path": "yolo_dataset\\labels\\train\\00178.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00178_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 179,
+            "image_id": "00179",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -45.0,
+                "y": 5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00179.png",
+            "label_path": "yolo_dataset\\labels\\train\\00179.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00179_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 180,
+            "image_id": "00180",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -15.0,
+                "y": 15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00180.png",
+            "label_path": "yolo_dataset\\labels\\train\\00180.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00180_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 181,
+            "image_id": "00181",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -40.0,
+                "y": 5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00181.png",
+            "label_path": "yolo_dataset\\labels\\train\\00181.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00181_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 182,
+            "image_id": "00182",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 15.0,
+                "y": -15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00182.png",
+            "label_path": "yolo_dataset\\labels\\train\\00182.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00182_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 183,
+            "image_id": "00183",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 15.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\val\\00183.png",
+            "label_path": "yolo_dataset\\labels\\val\\00183.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00183_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 184,
+            "image_id": "00184",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 35.0,
+                "y": -15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00184.png",
+            "label_path": "yolo_dataset\\labels\\train\\00184.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00184_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 185,
+            "image_id": "00185",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -25.0,
+                "y": -15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00185.png",
+            "label_path": "yolo_dataset\\labels\\train\\00185.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00185_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 186,
+            "image_id": "00186",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -25.0,
+                "y": 0.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00186.png",
+            "label_path": "yolo_dataset\\labels\\val\\00186.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00186_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 187,
+            "image_id": "00187",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 55.0,
+                "y": -5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00187.png",
+            "label_path": "yolo_dataset\\labels\\train\\00187.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00187_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 188,
+            "image_id": "00188",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -25.0,
+                "y": 20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00188.png",
+            "label_path": "yolo_dataset\\labels\\train\\00188.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00188_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 189,
+            "image_id": "00189",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -20.0,
+                "y": -5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00189.png",
+            "label_path": "yolo_dataset\\labels\\train\\00189.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00189_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 190,
+            "image_id": "00190",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 60.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00190.png",
+            "label_path": "yolo_dataset\\labels\\train\\00190.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00190_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 191,
+            "image_id": "00191",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 30.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00191.png",
+            "label_path": "yolo_dataset\\labels\\train\\00191.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00191_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 192,
+            "image_id": "00192",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 20.0,
+                "y": -15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00192.png",
+            "label_path": "yolo_dataset\\labels\\train\\00192.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00192_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 193,
+            "image_id": "00193",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -10.0,
+                "y": -10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00193.png",
+            "label_path": "yolo_dataset\\labels\\train\\00193.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00193_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 194,
+            "image_id": "00194",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 40.0,
+                "y": -20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00194.png",
+            "label_path": "yolo_dataset\\labels\\train\\00194.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00194_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 195,
+            "image_id": "00195",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 5.0,
+                "y": -10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00195.png",
+            "label_path": "yolo_dataset\\labels\\train\\00195.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00195_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 196,
+            "image_id": "00196",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 35.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00196.png",
+            "label_path": "yolo_dataset\\labels\\val\\00196.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00196_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 197,
+            "image_id": "00197",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -5.0,
+                "y": 15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00197.png",
+            "label_path": "yolo_dataset\\labels\\train\\00197.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00197_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 198,
+            "image_id": "00198",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -20.0,
+                "y": -10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00198.png",
+            "label_path": "yolo_dataset\\labels\\val\\00198.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00198_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 199,
+            "image_id": "00199",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 5.0,
+                "y": -10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\val\\00199.png",
+            "label_path": "yolo_dataset\\labels\\val\\00199.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00199_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 200,
+            "image_id": "00200",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -35.0,
+                "y": -20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00200.png",
+            "label_path": "yolo_dataset\\labels\\train\\00200.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00200_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 201,
+            "image_id": "00201",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -60.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00201.png",
+            "label_path": "yolo_dataset\\labels\\train\\00201.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00201_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 202,
+            "image_id": "00202",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 30.0,
+                "y": 10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00202.png",
+            "label_path": "yolo_dataset\\labels\\val\\00202.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00202_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 203,
+            "image_id": "00203",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 10.0,
+                "y": -15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00203.png",
+            "label_path": "yolo_dataset\\labels\\train\\00203.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00203_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 204,
+            "image_id": "00204",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 45.0,
+                "y": 20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00204.png",
+            "label_path": "yolo_dataset\\labels\\train\\00204.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00204_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 205,
+            "image_id": "00205",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -10.0,
+                "y": 5.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00205.png",
+            "label_path": "yolo_dataset\\labels\\val\\00205.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00205_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 206,
+            "image_id": "00206",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 30.0,
+                "y": -5.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00206.png",
+            "label_path": "yolo_dataset\\labels\\train\\00206.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00206_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 207,
+            "image_id": "00207",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -35.0,
+                "y": -20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00207.png",
+            "label_path": "yolo_dataset\\labels\\train\\00207.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00207_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 208,
+            "image_id": "00208",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -35.0,
+                "y": 20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00208.png",
+            "label_path": "yolo_dataset\\labels\\train\\00208.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00208_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 209,
+            "image_id": "00209",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -55.0,
+                "y": -20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00209.png",
+            "label_path": "yolo_dataset\\labels\\train\\00209.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00209_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 210,
+            "image_id": "00210",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -25.0,
+                "y": 0.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00210.png",
+            "label_path": "yolo_dataset\\labels\\train\\00210.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00210_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 211,
+            "image_id": "00211",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -10.0,
+                "y": 10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00211.png",
+            "label_path": "yolo_dataset\\labels\\train\\00211.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00211_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 212,
+            "image_id": "00212",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 5.0,
+                "y": -20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00212.png",
+            "label_path": "yolo_dataset\\labels\\train\\00212.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00212_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 213,
+            "image_id": "00213",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 50.0,
+                "y": -10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00213.png",
+            "label_path": "yolo_dataset\\labels\\train\\00213.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00213_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 214,
+            "image_id": "00214",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 55.0,
+                "y": -15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00214.png",
+            "label_path": "yolo_dataset\\labels\\train\\00214.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00214_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 215,
+            "image_id": "00215",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 15.0,
+                "y": 20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00215.png",
+            "label_path": "yolo_dataset\\labels\\train\\00215.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00215_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 216,
+            "image_id": "00216",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -20.0,
+                "y": -10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00216.png",
+            "label_path": "yolo_dataset\\labels\\val\\00216.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00216_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 217,
+            "image_id": "00217",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 35.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00217.png",
+            "label_path": "yolo_dataset\\labels\\train\\00217.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00217_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 218,
+            "image_id": "00218",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -10.0,
+                "y": -15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\val\\00218.png",
+            "label_path": "yolo_dataset\\labels\\val\\00218.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00218_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 219,
+            "image_id": "00219",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 25.0,
+                "y": 20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00219.png",
+            "label_path": "yolo_dataset\\labels\\val\\00219.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00219_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 220,
+            "image_id": "00220",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -20.0,
+                "y": -10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00220.png",
+            "label_path": "yolo_dataset\\labels\\train\\00220.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00220_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 221,
+            "image_id": "00221",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -40.0,
+                "y": 15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00221.png",
+            "label_path": "yolo_dataset\\labels\\train\\00221.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00221_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 222,
+            "image_id": "00222",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 5.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00222.png",
+            "label_path": "yolo_dataset\\labels\\val\\00222.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00222_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 223,
+            "image_id": "00223",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 35.0,
+                "y": -10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00223.png",
+            "label_path": "yolo_dataset\\labels\\train\\00223.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00223_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 224,
+            "image_id": "00224",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -60.0,
+                "y": -10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00224.png",
+            "label_path": "yolo_dataset\\labels\\train\\00224.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00224_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 225,
+            "image_id": "00225",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -5.0,
+                "y": 0.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00225.png",
+            "label_path": "yolo_dataset\\labels\\train\\00225.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00225_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 226,
+            "image_id": "00226",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 10.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00226.png",
+            "label_path": "yolo_dataset\\labels\\train\\00226.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00226_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 227,
+            "image_id": "00227",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -40.0,
+                "y": -5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00227.png",
+            "label_path": "yolo_dataset\\labels\\train\\00227.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00227_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 228,
+            "image_id": "00228",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 5.0,
+                "y": 20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00228.png",
+            "label_path": "yolo_dataset\\labels\\train\\00228.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00228_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 229,
+            "image_id": "00229",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -55.0,
+                "y": 5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00229.png",
+            "label_path": "yolo_dataset\\labels\\train\\00229.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00229_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 230,
+            "image_id": "00230",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 5.0,
+                "y": -20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00230.png",
+            "label_path": "yolo_dataset\\labels\\train\\00230.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00230_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 231,
+            "image_id": "00231",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -60.0,
+                "y": -15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00231.png",
+            "label_path": "yolo_dataset\\labels\\train\\00231.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00231_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 232,
+            "image_id": "00232",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 15.0,
+                "y": -5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\val\\00232.png",
+            "label_path": "yolo_dataset\\labels\\val\\00232.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00232_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 233,
+            "image_id": "00233",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 30.0,
+                "y": -20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00233.png",
+            "label_path": "yolo_dataset\\labels\\val\\00233.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00233_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 234,
+            "image_id": "00234",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 25.0,
+                "y": -10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00234.png",
+            "label_path": "yolo_dataset\\labels\\train\\00234.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00234_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 235,
+            "image_id": "00235",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -35.0,
+                "y": 10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00235.png",
+            "label_path": "yolo_dataset\\labels\\val\\00235.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00235_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 236,
+            "image_id": "00236",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -5.0,
+                "y": -20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00236.png",
+            "label_path": "yolo_dataset\\labels\\train\\00236.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00236_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 237,
+            "image_id": "00237",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 25.0,
+                "y": -10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00237.png",
+            "label_path": "yolo_dataset\\labels\\train\\00237.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00237_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 238,
+            "image_id": "00238",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -5.0,
+                "y": 5.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00238.png",
+            "label_path": "yolo_dataset\\labels\\train\\00238.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00238_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 239,
+            "image_id": "00239",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -40.0,
+                "y": -20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00239.png",
+            "label_path": "yolo_dataset\\labels\\train\\00239.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00239_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 240,
+            "image_id": "00240",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 55.0,
+                "y": -20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00240.png",
+            "label_path": "yolo_dataset\\labels\\train\\00240.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00240_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 241,
+            "image_id": "00241",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -50.0,
+                "y": 15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00241.png",
+            "label_path": "yolo_dataset\\labels\\train\\00241.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00241_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 242,
+            "image_id": "00242",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -10.0,
+                "y": -5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00242.png",
+            "label_path": "yolo_dataset\\labels\\train\\00242.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00242_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 243,
+            "image_id": "00243",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 10.0,
+                "y": -10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00243.png",
+            "label_path": "yolo_dataset\\labels\\train\\00243.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00243_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 244,
+            "image_id": "00244",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -60.0,
+                "y": 10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00244.png",
+            "label_path": "yolo_dataset\\labels\\train\\00244.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00244_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 245,
+            "image_id": "00245",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 55.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00245.png",
+            "label_path": "yolo_dataset\\labels\\train\\00245.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00245_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 246,
+            "image_id": "00246",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 35.0,
+                "y": 5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00246.png",
+            "label_path": "yolo_dataset\\labels\\train\\00246.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00246_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 247,
+            "image_id": "00247",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 35.0,
+                "y": 5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00247.png",
+            "label_path": "yolo_dataset\\labels\\train\\00247.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00247_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 248,
+            "image_id": "00248",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -50.0,
+                "y": 10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00248.png",
+            "label_path": "yolo_dataset\\labels\\train\\00248.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00248_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 249,
+            "image_id": "00249",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -50.0,
+                "y": -5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00249.png",
+            "label_path": "yolo_dataset\\labels\\train\\00249.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00249_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 250,
+            "image_id": "00250",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -55.0,
+                "y": 5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00250.png",
+            "label_path": "yolo_dataset\\labels\\train\\00250.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00250_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 251,
+            "image_id": "00251",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 20.0,
+                "y": 20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00251.png",
+            "label_path": "yolo_dataset\\labels\\train\\00251.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00251_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 252,
+            "image_id": "00252",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 10.0,
+                "y": -15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\val\\00252.png",
+            "label_path": "yolo_dataset\\labels\\val\\00252.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00252_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 253,
+            "image_id": "00253",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -25.0,
+                "y": -15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00253.png",
+            "label_path": "yolo_dataset\\labels\\train\\00253.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00253_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 254,
+            "image_id": "00254",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -5.0,
+                "y": -5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00254.png",
+            "label_path": "yolo_dataset\\labels\\val\\00254.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00254_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 255,
+            "image_id": "00255",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -45.0,
+                "y": -5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00255.png",
+            "label_path": "yolo_dataset\\labels\\train\\00255.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00255_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 256,
+            "image_id": "00256",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 55.0,
+                "y": 15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00256.png",
+            "label_path": "yolo_dataset\\labels\\train\\00256.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00256_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 257,
+            "image_id": "00257",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 5.0,
+                "y": -10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00257.png",
+            "label_path": "yolo_dataset\\labels\\train\\00257.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00257_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 258,
+            "image_id": "00258",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -30.0,
+                "y": -10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00258.png",
+            "label_path": "yolo_dataset\\labels\\train\\00258.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00258_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 259,
+            "image_id": "00259",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 15.0,
+                "y": -10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00259.png",
+            "label_path": "yolo_dataset\\labels\\train\\00259.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00259_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 260,
+            "image_id": "00260",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 0.0,
+                "y": 15.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00260.png",
+            "label_path": "yolo_dataset\\labels\\train\\00260.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00260_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 261,
+            "image_id": "00261",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 20.0,
+                "y": 0.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00261.png",
+            "label_path": "yolo_dataset\\labels\\train\\00261.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00261_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 262,
+            "image_id": "00262",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -10.0,
+                "y": 20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00262.png",
+            "label_path": "yolo_dataset\\labels\\train\\00262.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00262_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 263,
+            "image_id": "00263",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 10.0,
+                "y": 5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00263.png",
+            "label_path": "yolo_dataset\\labels\\train\\00263.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00263_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 264,
+            "image_id": "00264",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -45.0,
+                "y": -20.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00264.png",
+            "label_path": "yolo_dataset\\labels\\train\\00264.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00264_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 265,
+            "image_id": "00265",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -45.0,
+                "y": -20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00265.png",
+            "label_path": "yolo_dataset\\labels\\val\\00265.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00265_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 266,
+            "image_id": "00266",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -50.0,
+                "y": 5.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00266.png",
+            "label_path": "yolo_dataset\\labels\\train\\00266.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00266_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 267,
+            "image_id": "00267",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 20.0,
+                "y": 10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00267.png",
+            "label_path": "yolo_dataset\\labels\\train\\00267.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00267_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 268,
+            "image_id": "00268",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 10.0,
+                "y": 10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00268.png",
+            "label_path": "yolo_dataset\\labels\\train\\00268.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00268_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 269,
+            "image_id": "00269",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -55.0,
+                "y": 10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00269.png",
+            "label_path": "yolo_dataset\\labels\\train\\00269.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00269_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 270,
+            "image_id": "00270",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -50.0,
+                "y": -5.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00270.png",
+            "label_path": "yolo_dataset\\labels\\train\\00270.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00270_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 271,
+            "image_id": "00271",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 55.0,
+                "y": -10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00271.png",
+            "label_path": "yolo_dataset\\labels\\train\\00271.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00271_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 272,
+            "image_id": "00272",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 15.0,
+                "y": -15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00272.png",
+            "label_path": "yolo_dataset\\labels\\train\\00272.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00272_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 273,
+            "image_id": "00273",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 25.0,
+                "y": -20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00273.png",
+            "label_path": "yolo_dataset\\labels\\train\\00273.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00273_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 274,
+            "image_id": "00274",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 50.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00274.png",
+            "label_path": "yolo_dataset\\labels\\train\\00274.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00274_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 275,
+            "image_id": "00275",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": -5.0,
+                "y": -5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00275.png",
+            "label_path": "yolo_dataset\\labels\\train\\00275.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00275_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 276,
+            "image_id": "00276",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -25.0,
+                "y": 10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00276.png",
+            "label_path": "yolo_dataset\\labels\\train\\00276.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00276_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 277,
+            "image_id": "00277",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -10.0,
+                "y": -5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00277.png",
+            "label_path": "yolo_dataset\\labels\\train\\00277.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00277_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 278,
+            "image_id": "00278",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -35.0,
+                "y": 0.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00278.png",
+            "label_path": "yolo_dataset\\labels\\train\\00278.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00278_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 279,
+            "image_id": "00279",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -55.0,
+                "y": -10.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00279.png",
+            "label_path": "yolo_dataset\\labels\\train\\00279.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00279_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 280,
+            "image_id": "00280",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -40.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00280.png",
+            "label_path": "yolo_dataset\\labels\\train\\00280.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00280_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 281,
+            "image_id": "00281",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -25.0,
+                "y": -15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00281.png",
+            "label_path": "yolo_dataset\\labels\\train\\00281.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00281_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 282,
+            "image_id": "00282",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 30.0,
+                "y": 20.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00282.png",
+            "label_path": "yolo_dataset\\labels\\train\\00282.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00282_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 283,
+            "image_id": "00283",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -15.0,
+                "y": 20.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00283.png",
+            "label_path": "yolo_dataset\\labels\\train\\00283.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00283_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 284,
+            "image_id": "00284",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 25.0,
+                "y": -15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00284.png",
+            "label_path": "yolo_dataset\\labels\\train\\00284.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00284_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 285,
+            "image_id": "00285",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 50.0,
+                "y": -10.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00285.png",
+            "label_path": "yolo_dataset\\labels\\train\\00285.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00285_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 286,
+            "image_id": "00286",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -15.0,
+                "y": -5.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00286.png",
+            "label_path": "yolo_dataset\\labels\\train\\00286.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00286_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 287,
+            "image_id": "00287",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -15.0,
+                "y": -20.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00287.png",
+            "label_path": "yolo_dataset\\labels\\train\\00287.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00287_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 288,
+            "image_id": "00288",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -20.0,
+                "y": 15.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\val\\00288.png",
+            "label_path": "yolo_dataset\\labels\\val\\00288.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00288_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 289,
+            "image_id": "00289",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 45.0,
+                "y": -10.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00289.png",
+            "label_path": "yolo_dataset\\labels\\train\\00289.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00289_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 290,
+            "image_id": "00290",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 60.0,
+                "y": -5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00290.png",
+            "label_path": "yolo_dataset\\labels\\train\\00290.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00290_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 291,
+            "image_id": "00291",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -45.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00291.png",
+            "label_path": "yolo_dataset\\labels\\train\\00291.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00291_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 292,
+            "image_id": "00292",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": -50.0,
+                "y": 0.0,
+                "yaw_deg": 180
+            },
+            "image_path": "yolo_dataset\\images\\train\\00292.png",
+            "label_path": "yolo_dataset\\labels\\train\\00292.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00292_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 293,
+            "image_id": "00293",
+            "split": "val",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 0.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\val\\00293.png",
+            "label_path": "yolo_dataset\\labels\\val\\00293.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00293_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 294,
+            "image_id": "00294",
+            "split": "val",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": -35.0,
+                "y": 10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\val\\00294.png",
+            "label_path": "yolo_dataset\\labels\\val\\00294.txt",
+            "mask_path": "yolo_dataset\\masks\\val\\00294_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 295,
+            "image_id": "00295",
+            "split": "train",
+            "has_pothole": false,
+            "n_potholes": 0,
+            "state": {
+                "x": 45.0,
+                "y": 5.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00295.png",
+            "label_path": "yolo_dataset\\labels\\train\\00295.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00295_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 296,
+            "image_id": "00296",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": 60.0,
+                "y": 10.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00296.png",
+            "label_path": "yolo_dataset\\labels\\train\\00296.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00296_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 297,
+            "image_id": "00297",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 2,
+            "state": {
+                "x": 25.0,
+                "y": 15.0,
+                "yaw_deg": 270
+            },
+            "image_path": "yolo_dataset\\images\\train\\00297.png",
+            "label_path": "yolo_dataset\\labels\\train\\00297.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00297_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 298,
+            "image_id": "00298",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 3,
+            "state": {
+                "x": -35.0,
+                "y": -15.0,
+                "yaw_deg": 0
+            },
+            "image_path": "yolo_dataset\\images\\train\\00298.png",
+            "label_path": "yolo_dataset\\labels\\train\\00298.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00298_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        },
+        {
+            "index": 299,
+            "image_id": "00299",
+            "split": "train",
+            "has_pothole": true,
+            "n_potholes": 1,
+            "state": {
+                "x": 45.0,
+                "y": 5.0,
+                "yaw_deg": 90
+            },
+            "image_path": "yolo_dataset\\images\\train\\00299.png",
+            "label_path": "yolo_dataset\\labels\\train\\00299.txt",
+            "mask_path": "yolo_dataset\\masks\\train\\00299_mask.png",
+            "image_w": 512,
+            "image_h": 512
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "0": {
+    "name": "pothole",
+    "precision": 1.0,
+    "recall": 1.0,
+    "false_positive_rate": 0.0,
+    "false_negative_rate": 0.0,
+    "TP": 1,
+    "FP": 0,
+    "FN": 0,
+    "TN": 95
+  }
+}
